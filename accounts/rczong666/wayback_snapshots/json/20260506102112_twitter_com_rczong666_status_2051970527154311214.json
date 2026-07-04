@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2051970527154311214",
+    "created_at": "2026-05-06T10:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051970527154311214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051970527154311214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051964821848138051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 真的搞不懂为什么有些oder抓着西柚汁不放\n但凡药店20块钱买个克拉霉素呢，，，\n提前2h吃4片克拉霉素能让DXM的暴露量提高至少1.70x,至多3.10x！！！！\n12片玉米能发挥出37.2片的效力\n大家转一下推吧，现在各位ym片肯定也是吃一盒…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2051963692393390080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoKG0EbYAAqWxr.png",
+        "width": 1568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2051970527154311214",
+        "created_at": "2026-05-06T10:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051970527154311214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051970527154311214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051964821848138051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 真的搞不懂为什么有些oder抓着西柚汁不放\n但凡药店20块钱买个克拉霉素呢，，，\n提前2h吃4片克拉霉素能让DXM的暴露量提高至少1.70x,至多3.10x！！！！\n12片玉米能发挥出37.2片的效力\n大家转一下推吧，现在各位ym片肯定也是吃一盒…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051963692393390080"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2051964821848138051",
+        "created_at": "2026-05-06T09:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051964821848138051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBqhFszZ5Y",
+              "end": 168,
+              "expanded_url": "https://x.com/amecandy_x/status/2051964821848138051/photo/1",
+              "media_key": "3_2051963692393390080",
+              "start": 145,
+              "url": "https://t.co/oBqhFszZ5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051964821848138051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真的搞不懂为什么有些oder抓着西柚汁不放\n但凡药店20块钱买个克拉霉素呢，，，\n提前2h吃4片克拉霉素能让DXM的暴露量提高至少1.70x,至多3.10x！！！！\n12片玉米能发挥出37.2片的效力\n大家转一下推吧，现在各位ym片肯定也是吃一盒少一盒，真的不想看到白白浪费了，，，😇😇😇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 148,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "真的搞不懂为什么有些oder抓着西柚汁不放\n但凡药店20块钱买个克拉霉素呢，，，\n提前2h吃4片克拉霉素能让DXM的暴露量提高至少1.70x,至多3.10x！！！！\n12片玉米能发挥出37.2片的效力\n大家转一下推吧，现在各位ym片肯定也是吃一盒少一盒，真的不想看到白白浪费了，，，😇😇😇 https://t.co/oBqhFszZ5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 329,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 320
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2046119775114551305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6265,
+          "following_count": 2134,
+          "like_count": 27078,
+          "listed_count": 16,
+          "media_count": 1422,
+          "tweet_count": 10146
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

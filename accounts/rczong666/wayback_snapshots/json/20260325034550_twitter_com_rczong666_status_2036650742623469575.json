@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2036650742623469575",
+    "created_at": "2026-03-25T03:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036650742623469575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 129,
+          "id": "1368897611672018953",
+          "start": 119,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036650742623469575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036650204561371591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 日常抽奖第二弹！\n揪6个小可爱送一份礼物\n奖品：透明鱼板🍥钥匙扣/粉蓝白配色TNT/显卡模型钥匙扣/投资铀条\n总计将抽出不少于30份奖品\n开奖时间为：2026年3月27日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036650201981812736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOikWzagAAahwj.jpg",
+        "width": 908
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036650198655758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOikKaa8AASIbY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1462,
+        "media_key": "3_2036650200945836032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOikS8awAAuhXp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2036650742623469575",
+        "created_at": "2026-03-25T03:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036650742623469575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 129,
+              "id": "1368897611672018953",
+              "start": 119,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036650742623469575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036650204561371591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 日常抽奖第二弹！\n揪6个小可爱送一份礼物\n奖品：透明鱼板🍥钥匙扣/粉蓝白配色TNT/显卡模型钥匙扣/投资铀条\n总计将抽出不少于30份奖品\n开奖时间为：2026年3月27日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036650201981812736",
+            "3_2036650198655758336",
+            "3_2036650200945836032"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2036650204561371591",
+        "created_at": "2026-03-25T03:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036650204561371591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 114,
+              "id": "1368897611672018953",
+              "start": 104,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWbqGdgSK8",
+              "end": 188,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036650204561371591/photo/1",
+              "media_key": "3_2036650201981812736",
+              "start": 165,
+              "url": "https://t.co/RWbqGdgSK8"
+            },
+            {
+              "display_url": "pic.x.com/RWbqGdgSK8",
+              "end": 188,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036650204561371591/photo/1",
+              "media_key": "3_2036650198655758336",
+              "start": 165,
+              "url": "https://t.co/RWbqGdgSK8"
+            },
+            {
+              "display_url": "pic.x.com/RWbqGdgSK8",
+              "end": 188,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036650204561371591/photo/1",
+              "media_key": "3_2036650200945836032",
+              "start": 165,
+              "url": "https://t.co/RWbqGdgSK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036650204561371591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第二弹！\n揪6个小可爱送一份礼物\n奖品：透明鱼板🍥钥匙扣/粉蓝白配色TNT/显卡模型钥匙扣/投资铀条\n总计将抽出不少于30份奖品\n开奖时间为：2026年3月27日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与\n目前抽奖都放到亮点里边了，都可以去看一下 https://t.co/RWbqGdgSK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 102,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 202
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6366,
+          "following_count": 1856,
+          "like_count": 21881,
+          "listed_count": 27,
+          "media_count": 438,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2035067044568474030",
+    "created_at": "2026-03-20T18:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T19:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035067044568474030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MutsumiXiaomu/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/MutsumiXiaomu/status/2034964507530076636",
+          "start": 17,
+          "url": "https://t.co/N5A13gcNGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035067044568474030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034964507530076636",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bad trip的原因疑似找到了 https://t.co/N5A13gcNGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1652,
+        "media_key": "3_2034964504774324224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2lb3WaMAAfqxU.jpg",
+        "width": 899
+      },
+      {
+        "height": 439,
+        "media_key": "3_2034964502522028032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2lbu9a4AA8lPg.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2035067044568474030",
+        "created_at": "2026-03-20T18:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T19:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035067044568474030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MutsumiXiaomu/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/MutsumiXiaomu/status/2034964507530076636",
+              "start": 17,
+              "url": "https://t.co/N5A13gcNGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035067044568474030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034964507530076636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bad trip的原因疑似找到了 https://t.co/N5A13gcNGh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034964504774324224",
+            "3_2034964502522028032"
+          ]
+        },
+        "author_id": "2011873376445612032",
+        "conversation_id": "2034964507530076636",
+        "created_at": "2026-03-20T12:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034964507530076636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbNXhYSeA2",
+              "end": 144,
+              "expanded_url": "https://x.com/MutsumiXiaomu/status/2034964507530076636/photo/1",
+              "media_key": "3_2034964504774324224",
+              "start": 121,
+              "url": "https://t.co/sbNXhYSeA2"
+            },
+            {
+              "display_url": "pic.x.com/sbNXhYSeA2",
+              "end": 144,
+              "expanded_url": "https://x.com/MutsumiXiaomu/status/2034964507530076636/photo/1",
+              "media_key": "3_2034964502522028032",
+              "start": 121,
+              "url": "https://t.co/sbNXhYSeA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034964507530076636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1212,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论丙戊酸钠是oder的毒药这一点\n目前已知丙戊酸钠会削弱普瑞巴林带来的欣快感，后被镜音老师提醒丙戊酸钠还会削弱DXM的药效......\n根据丙戊酸钠的药理，我猜测丙戊酸钠会削弱od圈的很多很多药的药效。\n欢迎学者们继续补充ଘ(੭ˊᵕˋ)੭* https://t.co/sbNXhYSeA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 56,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 168
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "你好呀 这里小睦丨ODer丨支黑 精日丨BPD 被害妄想丨希望死了就是死了别再有另个世界丨好朋友：@Natsumeann13丨亲爱的OD导师：@tanka_TwT (永远喜欢镜音老师❤️，想要一直陪伴着她，想要和她一起离世)     ☆必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "tanka_TwT"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "location": "为这个世界而祷哀吧",
+        "name": "小支柱清除计划Ver2.0🇯🇵",
+        "pinned_tweet_id": "2033416843646697603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 944,
+          "like_count": 6891,
+          "listed_count": 21,
+          "media_count": 49,
+          "tweet_count": 1341
+        },
+        "username": "MutsumiXiaomu",
+        "verified": false
+      }
+    ]
+  }
+}

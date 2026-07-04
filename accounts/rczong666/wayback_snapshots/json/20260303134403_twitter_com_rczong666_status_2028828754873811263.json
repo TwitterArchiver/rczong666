@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028828747479310336"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2028825440983662979",
+    "created_at": "2026-03-03T13:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028828754873811263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1941500711675854848",
+          "start": 0,
+          "username": "xirichaoxi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hokWORENQu",
+          "end": 39,
+          "expanded_url": "https://x.com/rczong666/status/2028828754873811263/photo/1",
+          "media_key": "3_2028828747479310336",
+          "start": 16,
+          "url": "https://t.co/hokWORENQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028828754873811263",
+    "in_reply_to_user_id": "1941500711675854848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028825440983662979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xirichaoxi 抽到了 https://t.co/hokWORENQu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028828747479310336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfY_yOa4AApAAo.jpg",
+        "width": 922
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2028825420221779968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfV-HOaEAArJcs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028828747479310336"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2028825440983662979",
+        "created_at": "2026-03-03T13:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028828754873811263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1941500711675854848",
+              "start": 0,
+              "username": "xirichaoxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hokWORENQu",
+              "end": 39,
+              "expanded_url": "https://x.com/rczong666/status/2028828754873811263/photo/1",
+              "media_key": "3_2028828747479310336",
+              "start": 16,
+              "url": "https://t.co/hokWORENQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028828754873811263",
+        "in_reply_to_user_id": "1941500711675854848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028825440983662979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xirichaoxi 抽到了 https://t.co/hokWORENQu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028825420221779968"
+          ]
+        },
+        "author_id": "1941500711675854848",
+        "conversation_id": "2028825440983662979",
+        "created_at": "2026-03-03T13:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028825440983662979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJf9APO2D9",
+              "end": 28,
+              "expanded_url": "https://x.com/xirichaoxi/status/2028825440983662979/photo/1",
+              "media_key": "3_2028825420221779968",
+              "start": 5,
+              "url": "https://t.co/NJf9APO2D9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028825440983662979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真实抽奖 https://t.co/NJf9APO2D9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 41,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 151
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T14:14:09.000Z",
+        "description": "一只胖胖的熊(破碎女高)\n🚪38，可以提供陪聊服务✧٩(ˊωˋ*)و✧\n只有这一个推号！提问箱https://t.co/ZvHdsSRnyr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apple97192",
+                "end": 70,
+                "expanded_url": "https://ngl.link/apple97192",
+                "start": 47,
+                "url": "https://t.co/ZvHdsSRnyr"
+              }
+            ]
+          }
+        },
+        "id": "1941500711675854848",
+        "name": "故事一无所有",
+        "pinned_tweet_id": "2004056275697701202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995573692131409922/qccbuSOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 1,
+          "like_count": 615,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 446
+        },
+        "username": "xirichaoxi",
+        "verified": false
+      }
+    ]
+  }
+}

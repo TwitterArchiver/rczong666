@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2042496629195018501",
+    "created_at": "2026-04-10T06:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042496629195018501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038975737055543296",
+          "start": 3,
+          "username": "WujiChem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042496629195018501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042487311599018415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WujiChem: 这里是無極（葉洪文）的回归账户🥺\n\n帮我转发+关注抽10个人送 \n\n3🌵/ 5IPPH / 2🍄 三选一\n\n截止到4月13日晚上22:00"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2042496629195018501",
+        "created_at": "2026-04-10T06:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042496629195018501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038975737055543296",
+              "start": 3,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042496629195018501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042487311599018415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WujiChem: 这里是無極（葉洪文）的回归账户🥺\n\n帮我转发+关注抽10个人送 \n\n3🌵/ 5IPPH / 2🍄 三选一\n\n截止到4月13日晚上22:00"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038975737055543296",
+        "conversation_id": "2042487311599018415",
+        "created_at": "2026-04-10T06:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042487311599018415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042487311599018415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 177,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "这里是無極（葉洪文）的回归账户🥺\n\n帮我转发+关注抽10个人送 \n\n3🌵/ 5IPPH / 2🍄 三选一\n\n截止到4月13日晚上22:00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 156,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 257
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "关注被限制了，不能马上回关致歉",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽",
+        "pinned_tweet_id": "2042487311599018415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038976322236755968/ntvGPdG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 32,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 68
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

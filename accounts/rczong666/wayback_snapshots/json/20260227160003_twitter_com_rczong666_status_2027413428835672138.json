@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027229289675161600"
+      ],
+      "media_source_tweet_id": [
+        "2027368126053015924"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027413428835672138",
+    "created_at": "2026-02-27T16:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027413428835672138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lXuUZfjG4Z",
+          "end": 50,
+          "expanded_url": "https://x.com/youy1qwq/status/2027368126053015924/photo/1",
+          "media_key": "3_2027229289675161600",
+          "start": 27,
+          "url": "https://t.co/lXuUZfjG4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027413428835672138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027368126053015924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 盘点那些葡萄干的神级救场 https://t.co/lXuUZfjG4Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027229289675161600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIqTFlbAAA-fYK.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027229289675161600"
+          ],
+          "media_source_tweet_id": [
+            "2027368126053015924"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027413428835672138",
+        "created_at": "2026-02-27T16:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027413428835672138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXuUZfjG4Z",
+              "end": 50,
+              "expanded_url": "https://x.com/youy1qwq/status/2027368126053015924/photo/1",
+              "media_key": "3_2027229289675161600",
+              "start": 27,
+              "url": "https://t.co/lXuUZfjG4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027413428835672138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027368126053015924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 盘点那些葡萄干的神级救场 https://t.co/lXuUZfjG4Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027229289675161600"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027368126053015924",
+        "created_at": "2026-02-27T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027368126053015924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXuUZfjG4Z",
+              "end": 36,
+              "expanded_url": "https://x.com/youy1qwq/status/2027368126053015924/photo/1",
+              "media_key": "3_2027229289675161600",
+              "start": 13,
+              "url": "https://t.co/lXuUZfjG4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027368126053015924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 27672,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "盘点那些葡萄干的神级救场 https://t.co/lXuUZfjG4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 33,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 140
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜互fo｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5405,
+          "following_count": 1189,
+          "like_count": 2781,
+          "listed_count": 7,
+          "media_count": 569,
+          "tweet_count": 970
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997332253840732160"
+      ],
+      "media_source_tweet_id": [
+        "1997332271658135799"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2022348295688139217",
+    "created_at": "2026-02-13T16:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022348295688139217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1626936328045883392",
+          "start": 3,
+          "username": "GGnn0529"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JM2KRZSwVj",
+          "end": 39,
+          "expanded_url": "https://x.com/GGnn0529/status/1997332271658135799/photo/1",
+          "media_key": "3_1997332253840732160",
+          "start": 16,
+          "url": "https://t.co/JM2KRZSwVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022348295688139217",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1380
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997332271658135799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GGnn0529: 🙋 https://t.co/JM2KRZSwVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1997332253840732160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fzGkCbcAAFBEW.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997332253840732160"
+          ],
+          "media_source_tweet_id": [
+            "1997332271658135799"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2022348295688139217",
+        "created_at": "2026-02-13T16:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022348295688139217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626936328045883392",
+              "start": 3,
+              "username": "GGnn0529"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JM2KRZSwVj",
+              "end": 39,
+              "expanded_url": "https://x.com/GGnn0529/status/1997332271658135799/photo/1",
+              "media_key": "3_1997332253840732160",
+              "start": 16,
+              "url": "https://t.co/JM2KRZSwVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022348295688139217",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1380
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997332271658135799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GGnn0529: 🙋 https://t.co/JM2KRZSwVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997332253840732160"
+          ]
+        },
+        "author_id": "1626936328045883392",
+        "conversation_id": "1997332271658135799",
+        "created_at": "2025-12-06T15:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997332271658135799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JM2KRZSwVj",
+              "end": 25,
+              "expanded_url": "https://x.com/GGnn0529/status/1997332271658135799/photo/1",
+              "media_key": "3_1997332253840732160",
+              "start": 2,
+              "url": "https://t.co/JM2KRZSwVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997332271658135799",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 710,
+          "impression_count": 140019,
+          "like_count": 8613,
+          "quote_count": 15,
+          "reply_count": 32,
+          "retweet_count": 1380
+        },
+        "reply_settings": "everyone",
+        "text": "🙋 https://t.co/JM2KRZSwVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 108
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T13:27:09.000Z",
+        "description": "我是寡寡(•∋•)/\nYuri/Furry🎨中文，谢谢你的点赞或转发…\n其他账号 @guagua_nn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "guagua_nn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/ggnn0529",
+                "end": 23,
+                "expanded_url": "https://pome.vip/ggnn0529",
+                "start": 0,
+                "url": "https://t.co/1DiQNX6YO6"
+              }
+            ]
+          }
+        },
+        "id": "1626936328045883392",
+        "location": "commission closed❌",
+        "name": "GGnn",
+        "pinned_tweet_id": "1898433759248265582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008221702245998592/AaRONHdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21058,
+          "following_count": 134,
+          "like_count": 5815,
+          "listed_count": 92,
+          "media_count": 626,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/1DiQNX6YO6",
+        "username": "GGnn0529",
+        "verified": false
+      }
+    ]
+  }
+}

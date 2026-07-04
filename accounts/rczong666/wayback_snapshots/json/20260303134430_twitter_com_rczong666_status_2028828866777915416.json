@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2028646789851803996",
+    "created_at": "2026-03-03T13:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028828866777915416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682395404976156672",
+          "start": 0,
+          "username": "yanghs84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028828866777915416",
+    "in_reply_to_user_id": "1682395404976156672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028646789851803996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanghs84 元宵快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2028646789851803996",
+        "created_at": "2026-03-03T13:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028828866777915416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682395404976156672",
+              "start": 0,
+              "username": "yanghs84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028828866777915416",
+        "in_reply_to_user_id": "1682395404976156672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028646789851803996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanghs84 元宵快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682395404976156672",
+        "conversation_id": "2028646789851803996",
+        "created_at": "2026-03-03T01:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028646789851803996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028646789851803996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6534,
+          "like_count": 147,
+          "quote_count": 1,
+          "reply_count": 114,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖贴\n大家元宵节快乐，评论区/点赞里面给大家抽个奶茶，今晚10点就开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 42,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 152
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T14:21:41.000Z",
+        "description": "非正常人类研究者｜🚪姐金牌验证师｜11-8点休息｜不加Q不加V\n通过验证的🚪姐都在@SugarWithGlaass关注里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "SugarWithGlaass"
+              }
+            ]
+          }
+        },
+        "id": "1682395404976156672",
+        "location": "Taiwan",
+        "name": "不吃鱼的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016011338741628928/D6sBt4Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 8,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 212
+        },
+        "username": "yanghs84",
+        "verified": false
+      }
+    ]
+  }
+}

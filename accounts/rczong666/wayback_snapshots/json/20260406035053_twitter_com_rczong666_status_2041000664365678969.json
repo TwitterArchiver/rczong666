@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2040804675553988678",
+    "created_at": "2026-04-06T03:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041000664365678969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007439875726028800",
+          "start": 0,
+          "username": "APeng87500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041000664365678969",
+    "in_reply_to_user_id": "2007439875726028800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040804675553988678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@APeng87500 恭喜 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2040804675553988678",
+        "created_at": "2026-04-06T03:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041000664365678969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007439875726028800",
+              "start": 0,
+              "username": "APeng87500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041000664365678969",
+        "in_reply_to_user_id": "2007439875726028800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040804675553988678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@APeng87500 恭喜 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007439875726028800",
+        "conversation_id": "2040804675553988678",
+        "created_at": "2026-04-05T14:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040804675553988678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040804675553988678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2161,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢各位！\n100fo啦！\n来抽奖哦\n一等奖一名生命之水一瓶折现20r\n二等奖两名小瓶伏特加一瓶折现10r\n三等奖五名5r\n关注，点赞，转帖即可参加😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 141,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 244
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "东方众｜音游基本都会打｜ENFP｜药物滥用｜自伤｜欢迎互fo｜顺男友跨｜不见证｜粉红直接block｜🚪15纯绿｜50可以聊些16+｜很胖所以在努力减肥｜孩子没钱了球球了给点门槛费吧｜\n坐标深圳，偶尔刷新香港 生产日期2012.09.30",
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "博丽灵梦💊",
+        "pinned_tweet_id": "2040804675553988678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 175,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 154
+        },
+        "username": "APeng87500",
+        "verified": false
+      }
+    ]
+  }
+}

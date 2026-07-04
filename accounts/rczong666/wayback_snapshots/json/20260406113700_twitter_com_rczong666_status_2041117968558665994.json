@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2041117968558665994",
+    "created_at": "2026-04-06T11:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041117968558665994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2029809107751030788",
+          "start": 3,
+          "username": "Floraino020717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041117968558665994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041016187942031694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Floraino020717: 为庆祝mecry正式投入工作，特开一次抽奖活动\n一等奖一份3-me-pcp\n二等奖dxm003高纯定制版\n三等奖普瑞cocktail4:1:1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2041117968558665994",
+        "created_at": "2026-04-06T11:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041117968558665994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2029809107751030788",
+              "start": 3,
+              "username": "Floraino020717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041117968558665994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041016187942031694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Floraino020717: 为庆祝mecry正式投入工作，特开一次抽奖活动\n一等奖一份3-me-pcp\n二等奖dxm003高纯定制版\n三等奖普瑞cocktail4:1:1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029809107751030788",
+        "conversation_id": "2041016187942031694",
+        "created_at": "2026-04-06T04:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041016187942031694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041016187942031694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "为庆祝mecry正式投入工作，特开一次抽奖活动\n一等奖一份3-me-pcp\n二等奖dxm003高纯定制版\n三等奖普瑞cocktail4:1:1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 141,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 245
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T06:39:48.000Z",
+        "description": "",
+        "id": "2029809107751030788",
+        "name": "Floraino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029809268631707648/oHiN_kwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 192,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "username": "Floraino020717",
+        "verified": false
+      }
+    ]
+  }
+}

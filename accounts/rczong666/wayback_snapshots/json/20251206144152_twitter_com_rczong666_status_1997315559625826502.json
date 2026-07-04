@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1997315559625826502",
+    "created_at": "2025-12-06T14:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997315559625826502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997315559625826502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "舍友说要去看电影，我就把优惠劵给了他\n\n其实当初转发朋友圈拿优惠劵就不是为了给自己用的，就是想着哪一天有人想看电影了我能把优惠劵给他\n\n我这种人，像是舍友问我该怎么复习，我会买资料的时候偷偷多买一本，等带给舍友想要被夸的时候舍友却说自己早就有了，问为什么要给他买的时候只会装傻的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1997315559625826502",
+        "created_at": "2025-12-06T14:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997315559625826502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997315559625826502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "舍友说要去看电影，我就把优惠劵给了他\n\n其实当初转发朋友圈拿优惠劵就不是为了给自己用的，就是想着哪一天有人想看电影了我能把优惠劵给他\n\n我这种人，像是舍友问我该怎么复习，我会买资料的时候偷偷多买一本，等带给舍友想要被夸的时候舍友却说自己早就有了，问为什么要给他买的时候只会装傻的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "明日方舟/星铁/火影手游玩家，算法竞赛爱好者，本科在读，服用精神药物中",
+        "id": "1901685825076973568",
+        "location": "现实世界",
+        "name": "Forget-Me-Not",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 32
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

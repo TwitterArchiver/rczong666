@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036096032833216512"
+      ],
+      "media_source_tweet_id": [
+        "2036096759194440183"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2036144870742753470",
+    "created_at": "2026-03-23T18:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T19:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036144870742753470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "抽奖"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "替补"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1298455081193320453",
+          "start": 3,
+          "username": "chairbtc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lXIFgTnDqy",
+          "end": 127,
+          "expanded_url": "https://x.com/chairbtc/status/2036096759194440183/photo/1",
+          "media_key": "3_2036096032833216512",
+          "start": 104,
+          "url": "https://t.co/lXIFgTnDqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036144870742753470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036096759194440183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chairbtc: Bitget 咖啡杯昨晚的开奖，目前只有2人给了我收货地址，还有一人未回复，现在已超时，准备从评论区抽取一人替补，送Bg咖啡杯，只需关注我，转发评论就行，明天开奖 #抽奖 #替补 https://t.co/lXIFgTnDqy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2036096032833216512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGqjd2bIAAmpM7.png",
+        "width": 455
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036096032833216512"
+          ],
+          "media_source_tweet_id": [
+            "2036096759194440183"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2036144870742753470",
+        "created_at": "2026-03-23T18:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036144870742753470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "抽奖"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "替补"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1298455081193320453",
+              "start": 3,
+              "username": "chairbtc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXIFgTnDqy",
+              "end": 127,
+              "expanded_url": "https://x.com/chairbtc/status/2036096759194440183/photo/1",
+              "media_key": "3_2036096032833216512",
+              "start": 104,
+              "url": "https://t.co/lXIFgTnDqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036144870742753470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036096759194440183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chairbtc: Bitget 咖啡杯昨晚的开奖，目前只有2人给了我收货地址，还有一人未回复，现在已超时，准备从评论区抽取一人替补，送Bg咖啡杯，只需关注我，转发评论就行，明天开奖 #抽奖 #替补 https://t.co/lXIFgTnDqy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036096032833216512"
+          ]
+        },
+        "author_id": "1298455081193320453",
+        "conversation_id": "2036096759194440183",
+        "created_at": "2026-03-23T15:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036096759194440183"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "抽奖"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "替补"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXIFgTnDqy",
+              "end": 113,
+              "expanded_url": "https://x.com/chairbtc/status/2036096759194440183/photo/1",
+              "media_key": "3_2036096032833216512",
+              "start": 90,
+              "url": "https://t.co/lXIFgTnDqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036096759194440183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1548,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Bitget 咖啡杯昨晚的开奖，目前只有2人给了我收货地址，还有一人未回复，现在已超时，准备从评论区抽取一人替补，送Bg咖啡杯，只需关注我，转发评论就行，明天开奖 #抽奖 #替补 https://t.co/lXIFgTnDqy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day3）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 68,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 183
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-26T03:00:05.000Z",
+        "description": "tg：https://t.co/J48rLGwSel\ntg群：https://t.co/yMEx6Y98NP\n\n注册欧易，获20%永久返佣\nhttps://t.co/tP0OAEGiKB\n\n注册Bybit，可获得30%永久性返佣（邀请码：135309）\nhttps://t.co/pA27CpI4FT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/btc1320",
+                "end": 26,
+                "expanded_url": "https://t.me/btc1320",
+                "start": 3,
+                "url": "https://t.co/J48rLGwSel"
+              },
+              {
+                "display_url": "t.me/zcdjxsz",
+                "end": 54,
+                "expanded_url": "https://t.me/zcdjxsz",
+                "start": 31,
+                "url": "https://t.co/yMEx6Y98NP"
+              },
+              {
+                "display_url": "okx.com/join/521BTC",
+                "end": 93,
+                "expanded_url": "http://okx.com/join/521BTC",
+                "start": 70,
+                "url": "https://t.co/tP0OAEGiKB"
+              },
+              {
+                "display_url": "partner.bybit.com/b/135309",
+                "end": 150,
+                "expanded_url": "https://partner.bybit.com/b/135309",
+                "start": 127,
+                "url": "https://t.co/pA27CpI4FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCLo4m…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCLo4m2vEo0qoZ4QvikyxCJg",
+                "start": 0,
+                "url": "https://t.co/8pWRVNXiel"
+              }
+            ]
+          }
+        },
+        "id": "1298455081193320453",
+        "location": "美国",
+        "name": "比特币总裁",
+        "pinned_tweet_id": "1876920899208728864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620620397099241472/zQX1iS30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96953,
+          "following_count": 1325,
+          "like_count": 26944,
+          "listed_count": 541,
+          "media_count": 9329,
+          "tweet_count": 28203
+        },
+        "url": "https://t.co/8pWRVNXiel",
+        "username": "chairbtc",
+        "verified": true
+      }
+    ]
+  }
+}

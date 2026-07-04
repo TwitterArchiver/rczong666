@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2033771614899454174",
+    "created_at": "2026-03-17T05:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T06:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033771614899454174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577362467419611137",
+          "start": 3,
+          "username": "Retepa555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033771614899454174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033755190508339558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Retepa555: 💚我生日了，来开个抽奖，希望有更多有趣人或者oder和我互fo，关注+评论+转发即可参与，3.22开奖😽\n👽奖池:\n1.《命运石之门》steam标准版cdk（原价90r）*1\n2.pr80 75mg一盒（折现13r）*1\n3.ym片 12t一盒（折…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033771614899454174].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033771614899454174",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033771614899454174"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1292,
+        "media_key": "3_2033755187740086275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlZkWVbEAMSWx2.png",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033755187740086275"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033755190508339558",
+        "created_at": "2026-03-17T03:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033755190508339558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQkQovkpNA",
+              "end": 170,
+              "expanded_url": "https://x.com/Retepa555/status/2033755190508339558/photo/1",
+              "media_key": "3_2033755187740086275",
+              "start": 147,
+              "url": "https://t.co/hQkQovkpNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033755190508339558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "💚我生日了，来开个抽奖，希望有更多有趣人或者oder和我互fo，关注+评论+转发即可参与，3.22开奖😽\n👽奖池:\n1.《命运石之门》steam标准版cdk（原价90r）*1\n2.pr80 75mg一盒（折现13r）*1\n3.ym片 12t一盒（折现7r）*2\n会有人参吗这个，，，没人好尴尬 https://t.co/hQkQovkpNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 53,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 166
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜济南or河南or陕西\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79800945",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/79800945",
+                "start": 0,
+                "url": "https://t.co/wkea8c2PT4"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "互聯網",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 613,
+          "like_count": 15567,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/wkea8c2PT4",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

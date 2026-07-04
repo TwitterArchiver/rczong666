@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2035872830731280500",
+    "created_at": "2026-03-23T08:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035994463735279947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823160336691982336",
+          "start": 0,
+          "username": "Hozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035994463735279947",
+    "in_reply_to_user_id": "1823160336691982336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035872830731280500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hozheganma 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "100fo",
+        "height": 1476,
+        "media_key": "3_2035872821776412672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDfi33a8AACzwz.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2035872830731280500",
+        "created_at": "2026-03-23T08:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035994463735279947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823160336691982336",
+              "start": 0,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035994463735279947",
+        "in_reply_to_user_id": "1823160336691982336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035872830731280500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hozheganma 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035872821776412672"
+          ]
+        },
+        "author_id": "1823160336691982336",
+        "conversation_id": "2035872830731280500",
+        "created_at": "2026-03-23T00:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035872830731280500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vFBqYD2gGy",
+              "end": 131,
+              "expanded_url": "https://x.com/Hozheganma/status/2035872830731280500/photo/1",
+              "media_key": "3_2035872821776412672",
+              "start": 108,
+              "url": "https://t.co/vFBqYD2gGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035872830731280500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1666,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了！谢谢你们🥰～抽奖来了\n一等奖1名：2盒pr 折现34r\n二等奖2名：1盒pr 折现17r\n三等奖5名：1盒愈丑 折现8r\n欢迎 评论+转发 这条帖子参与～\n奖励如果发不完会随机发给中奖人\n一天后开奖😽 https://t.co/vFBqYD2gGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day3）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 64,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 177
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "09高中在读/已经滚出精卫。。/oder💊/自伤🤕/友跨/喜欢所有人/durg&set/想和你们互fo🙂/现实与网络的反差人/主页背景图临时的，在想换什么好/匿名聊天↓（话说真的有人么）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 0,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "天空",
+        "name": "沫依#Ng♓️（求互fo）",
+        "pinned_tweet_id": "2035872830731280500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 215,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/cNzWslTT8R",
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

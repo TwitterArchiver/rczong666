@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067591263629795328"
+      ],
+      "media_source_tweet_id": [
+        "2067591291085738133"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2067613729353879973",
+    "created_at": "2026-06-18T14:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067613729353879973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3EWZbLWed",
+          "end": 60,
+          "expanded_url": "https://x.com/smiroyama/status/2067591291085738133/photo/1",
+          "media_key": "3_2067591263629795328",
+          "start": 37,
+          "url": "https://t.co/j3EWZbLWed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067613729353879973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067591291085738133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: POV: 大学生参加各种竞赛所需要用的软件 https://t.co/j3EWZbLWed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_2067591263629795328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGPTLla4AAmOzG.jpg",
+        "width": 1798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067591263629795328"
+          ],
+          "media_source_tweet_id": [
+            "2067591291085738133"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2067613729353879973",
+        "created_at": "2026-06-18T14:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067613729353879973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3EWZbLWed",
+              "end": 60,
+              "expanded_url": "https://x.com/smiroyama/status/2067591291085738133/photo/1",
+              "media_key": "3_2067591263629795328",
+              "start": 37,
+              "url": "https://t.co/j3EWZbLWed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067613729353879973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067591291085738133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: POV: 大学生参加各种竞赛所需要用的软件 https://t.co/j3EWZbLWed"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067591263629795328"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2067591291085738133",
+        "created_at": "2026-06-18T12:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067591291085738133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3EWZbLWed",
+              "end": 45,
+              "expanded_url": "https://x.com/smiroyama/status/2067591291085738133/photo/1",
+              "media_key": "3_2067591263629795328",
+              "start": 22,
+              "url": "https://t.co/j3EWZbLWed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067591291085738133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 515,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "POV: 大学生参加各种竞赛所需要用的软件 https://t.co/j3EWZbLWed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 313,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 331
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | friends: @Huang_Yut1ng @fukui_p26 好伙伴: @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064928216654217216/gHEvZe0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6800,
+          "following_count": 2422,
+          "like_count": 13128,
+          "listed_count": 22,
+          "media_count": 2143,
+          "tweet_count": 7893
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "1997355271459410214",
+    "created_at": "2025-12-06T17:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997355271459410214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517790640813207552",
+          "start": 3,
+          "username": "XiaoQ177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997355271459410214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997259518460227723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoQ177: 我发现人的下巴上面有一个洞 往里塞薯条和炸鸡很舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "1997355271459410214",
+        "created_at": "2025-12-06T17:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997355271459410214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517790640813207552",
+              "start": 3,
+              "username": "XiaoQ177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997355271459410214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997259518460227723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoQ177: 我发现人的下巴上面有一个洞 往里塞薯条和炸鸡很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517790640813207552",
+        "conversation_id": "1997259518460227723",
+        "created_at": "2025-12-06T10:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T11:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997259518460227723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997259518460227723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 72034,
+          "like_count": 707,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我发现人的下巴上面有一个洞 往里塞薯条和炸鸡很舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "明日方舟/星铁/火影手游玩家，算法竞赛爱好者，本科在读，服用精神药物中",
+        "id": "1901685825076973568",
+        "location": "现实世界",
+        "name": "Forget-Me-Not",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 37
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T09:01:14.000Z",
+        "description": "三文鱼全球推广大使🪽有老公 互关来：@SaIm0n_3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "SaIm0n_3"
+              }
+            ]
+          }
+        },
+        "id": "1517790640813207552",
+        "location": "喜欢我请给我打钱",
+        "name": "Milliucat",
+        "pinned_tweet_id": "1997329617925869717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976658369277759488/9aLRIoQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6587,
+          "following_count": 93,
+          "like_count": 5027,
+          "listed_count": 8,
+          "media_count": 638,
+          "tweet_count": 4705
+        },
+        "username": "XiaoQ177",
+        "verified": false
+      }
+    ]
+  }
+}

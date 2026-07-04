@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2041699615364485465",
+    "created_at": "2026-04-08T09:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041811721871151151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "N2OXYN"
+        },
+        {
+          "end": 17,
+          "id": "1955503492145283072",
+          "start": 8,
+          "username": "QWQ73416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041811721871151151",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041699615364485465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N2OXYN @QWQ73416 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2041699615364485465",
+        "created_at": "2026-04-08T09:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041811721871151151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "N2OXYN"
+            },
+            {
+              "end": 17,
+              "id": "1955503492145283072",
+              "start": 8,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041811721871151151",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041699615364485465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N2OXYN @QWQ73416 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022181719835914242",
+        "conversation_id": "2041699615364485465",
+        "created_at": "2026-04-08T02:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041699615364485465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1955503492145283072",
+              "start": 17,
+              "username": "QWQ73416"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/N2OXYN/status/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/N2OXYN/status/2041587708620144957",
+              "start": 31,
+              "url": "https://t.co/thEWYlQl4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041699615364485465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4698,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041587708620144957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫猫已确认死亡，死因跳楼，消息由 @QWQ73416 处得知 https://t.co/thEWYlQl4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 142,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 253
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜od｜自残｜中度强迫症｜重度抑郁焦虑 精神分裂 多重人格｜精神不稳定｜闺蜜 @QWQ73416 ｜长春の药娘王｜如果有事找我请加主页Q群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "QWQ73416"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2039028209812209704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943373352378368/AH34Is4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4193,
+          "following_count": 194,
+          "like_count": 146,
+          "listed_count": 6,
+          "media_count": 39,
+          "tweet_count": 267
+        },
+        "username": "N2OXYN",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 320,
+          "like_count": 6331,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1631
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2017270560481558686",
+    "created_at": "2026-01-30T16:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017270560481558686"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017270560481558686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "对于愈美片冲服\n对我来说水&lt;西柚汁&lt;魔爪\n用水冲服会很苦，因为我个人吞咽比较困难，苦味会留在嘴巴和肚子里，导致吃完之后很恶心很想吐 西柚汁能稀释一部分苦味但苦味还是很浓，而魔爪就几乎能稀释掉所有的苦味，只有舌头接触药物的一瞬间会感觉到苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2017270560481558686",
+        "created_at": "2026-01-30T16:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017270560481558686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017270560481558686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "对于愈美片冲服\n对我来说水&lt;西柚汁&lt;魔爪\n用水冲服会很苦，因为我个人吞咽比较困难，苦味会留在嘴巴和肚子里，导致吃完之后很恶心很想吐 西柚汁能稀释一部分苦味但苦味还是很浓，而魔爪就几乎能稀释掉所有的苦味，只有舌头接触药物的一瞬间会感觉到苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "幻想中",
+        "name": "Fσrgεt-Mε-Nσt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 85
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

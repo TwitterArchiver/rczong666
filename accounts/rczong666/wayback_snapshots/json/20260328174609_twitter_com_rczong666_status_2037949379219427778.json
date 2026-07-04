@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2037949379219427778",
+    "created_at": "2026-03-28T17:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T18:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037949379219427778"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037949379219427778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "900mg普瑞，一点效果没有，于是补24t右美\n感觉普瑞单独使用对我来说就是没效果，只有很轻微很轻微的晕\n之前有过普瑞配碳酸锂，加重了碳酸锂给我带来的躯体抖动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2037949379219427778",
+        "created_at": "2026-03-28T17:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037949379219427778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037949379219427778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "900mg普瑞，一点效果没有，于是补24t右美\n感觉普瑞单独使用对我来说就是没效果，只有很轻微很轻微的晕\n之前有过普瑞配碳酸锂，加重了碳酸锂给我带来的躯体抖动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 127,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 217
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

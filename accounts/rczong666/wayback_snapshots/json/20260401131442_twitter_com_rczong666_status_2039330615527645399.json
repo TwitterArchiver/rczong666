@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2039094400928661552",
+    "created_at": "2026-04-01T13:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039330615527645399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039330615527645399",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039094400928661552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2039094400928661552",
+        "created_at": "2026-04-01T13:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039330615527645399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039330615527645399",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039094400928661552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "2039094400928661552",
+        "created_at": "2026-03-31T21:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T22:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039094400928661552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039094400928661552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "公告\n\n各位推友：\n经与小马咴咴家属慎重沟通，现就其推特账号处理事宜\n\n公告如下：\n小马咴咴已于 2026年2月12日 离世。家属已于 2月25日 为其举行火化仪式，并遵照其生前意愿或家属安排，骨灰已撒入大海，完成海葬。\n\n遵照家属意愿，此推特账号计划于三个月后正式注销。账号将保留至 2026年7月1日。若有希望留作纪念的朋友，请在此日期前自行下载并保存相关内容。\n\n感谢大家一直以来对小马咴咴的陪伴与关爱。在此，我们对小马咴咴的离去表示深切哀悼。\n\n愿她随风而行，归于星辰大海，永享安宁。\n\n咴咴最后在遗书中给地球ol评分三星\n\n她的评价内容如下：\n不好不坏，别得抑郁debuff就好\n游戏太肝，太累了，想退游了🩷\n\n爱你们，爱世界，爱一切，唯独恨透了我自己\n\nBootJenna & ServalCandle\n[发布日期：2026年3月31日]"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 151882,
+          "like_count": 405,
+          "quote_count": 9,
+          "reply_count": 93,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "公告\n\n各位推友：\n经与小马咴咴家属慎重沟通，现就其推特账号处理事宜\n\n公告如下：\n小马咴咴已于 2026年2月12日 离世。家属已于 2月25日 为其举行火化仪式，并遵照其生前意愿或家属安排，骨灰已撒入大海，完成海葬。\n\n遵照家属意愿，此推特账号计划于三个月后正式注销。账号将保留至"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 133,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 228
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/嘈嘈风流往事…/🩷💜/？？岁/单身了/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "2039094400928661552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12444,
+          "following_count": 1382,
+          "like_count": 159921,
+          "listed_count": 35,
+          "media_count": 5083,
+          "tweet_count": 67825
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

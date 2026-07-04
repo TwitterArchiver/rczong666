@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2036503349248532729",
+    "created_at": "2026-03-24T18:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T19:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036503349248532729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776627287934537728",
+          "start": 3,
+          "username": "NaiJin66998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036503349248532729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034215927651479956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NaiJin66998: 求转推。求互fo\n\n自伤❣️od💊 高血清素患者🏳️不吃愚昧片白兔。个位数就会血清素综合症。\n身体很弱但依旧o \n普瑞巴林高度成瘾💊这辈子陷在od了\n转推超过20\n抽一个66r或者五盒普瑞巴林\n两个18.8r或愚昧片两盒\n五个6r https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 1280,
+        "media_key": "13_2034215832843419648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034215832843419648/img/v-U4T6T-g-HHch_W.jpg",
+        "public_metrics": {
+          "view_count": 1305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034215832843419648/vid/avc1/320x568/M6ZKLbQX_Mj23o8a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034215832843419648/vid/avc1/480x852/m7j36WOpbSSyqopU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034215832843419648/vid/avc1/720x1280/K9MpXGZeRGM7nHjf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034215832843419648/pl/UN-NjAGgd4gXJQu6.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034215833027977216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr8hbwboAAVH7U.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034215832835051520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr8hbCb0AAXAWz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034215832834981888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr8hbCawAAe4rX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2036503349248532729",
+        "created_at": "2026-03-24T18:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036503349248532729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776627287934537728",
+              "start": 3,
+              "username": "NaiJin66998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036503349248532729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034215927651479956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NaiJin66998: 求转推。求互fo\n\n自伤❣️od💊 高血清素患者🏳️不吃愚昧片白兔。个位数就会血清素综合症。\n身体很弱但依旧o \n普瑞巴林高度成瘾💊这辈子陷在od了\n转推超过20\n抽一个66r或者五盒普瑞巴林\n两个18.8r或愚昧片两盒\n五个6r https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034215832843419648",
+            "3_2034215833027977216",
+            "3_2034215832835051520",
+            "3_2034215832834981888"
+          ]
+        },
+        "author_id": "1776627287934537728",
+        "conversation_id": "2034215927651479956",
+        "created_at": "2026-03-18T10:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034215927651479956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCabk5JvtY",
+              "end": 139,
+              "expanded_url": "https://x.com/NaiJin66998/status/2034215927651479956/video/1",
+              "media_key": "13_2034215832843419648",
+              "start": 116,
+              "url": "https://t.co/jCabk5JvtY"
+            },
+            {
+              "display_url": "pic.x.com/jCabk5JvtY",
+              "end": 139,
+              "expanded_url": "https://x.com/NaiJin66998/status/2034215927651479956/video/1",
+              "media_key": "3_2034215833027977216",
+              "start": 116,
+              "url": "https://t.co/jCabk5JvtY"
+            },
+            {
+              "display_url": "pic.x.com/jCabk5JvtY",
+              "end": 139,
+              "expanded_url": "https://x.com/NaiJin66998/status/2034215927651479956/video/1",
+              "media_key": "3_2034215832835051520",
+              "start": 116,
+              "url": "https://t.co/jCabk5JvtY"
+            },
+            {
+              "display_url": "pic.x.com/jCabk5JvtY",
+              "end": 139,
+              "expanded_url": "https://x.com/NaiJin66998/status/2034215927651479956/video/1",
+              "media_key": "3_2034215832834981888",
+              "start": 116,
+              "url": "https://t.co/jCabk5JvtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034215927651479956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 20834,
+          "like_count": 178,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "求转推。求互fo\n\n自伤❣️od💊 高血清素患者🏳️不吃愚昧片白兔。个位数就会血清素综合症。\n身体很弱但依旧o \n普瑞巴林高度成瘾💊这辈子陷在od了\n转推超过20\n抽一个66r或者五盒普瑞巴林\n两个18.8r或愚昧片两盒\n五个6r https://t.co/jCabk5JvtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day6）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 80,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 193
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T15:05:36.000Z",
+        "description": "看着你👁️喜欢的人 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "ovocaize"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rain23266",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rain23266",
+                "start": 0,
+                "url": "https://t.co/TIIJB87HIc"
+              }
+            ]
+          }
+        },
+        "id": "1776627287934537728",
+        "location": "🚪88/188/288/520/1314",
+        "name": "冬雪Rain",
+        "pinned_tweet_id": "2034215927651479956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931283273432657920/4nOsokdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 189,
+          "like_count": 599,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/TIIJB87HIc",
+        "username": "NaiJin66998",
+        "verified": false
+      }
+    ]
+  }
+}

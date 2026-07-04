@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029447444510236672"
+      ],
+      "media_source_tweet_id": [
+        "2029447448071225854"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2029894248175390736",
+    "created_at": "2026-03-06T12:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029894248175390736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916543476231208960",
+          "start": 3,
+          "username": "fayoubaike001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghx1w4NweE",
+          "end": 60,
+          "expanded_url": "https://x.com/fayoubaike001/status/2029447448071225854/photo/1",
+          "media_key": "3_2029447444510236672",
+          "start": 37,
+          "url": "https://t.co/ghx1w4NweE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029894248175390736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029447448071225854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike001: 过两天决定大战N55了\n先练习一下 https://t.co/ghx1w4NweE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2029447444510236672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCoLssRbYAAwnk6.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029447444510236672"
+          ],
+          "media_source_tweet_id": [
+            "2029447448071225854"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029894248175390736",
+        "created_at": "2026-03-06T12:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029894248175390736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916543476231208960",
+              "start": 3,
+              "username": "fayoubaike001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghx1w4NweE",
+              "end": 60,
+              "expanded_url": "https://x.com/fayoubaike001/status/2029447448071225854/photo/1",
+              "media_key": "3_2029447444510236672",
+              "start": 37,
+              "url": "https://t.co/ghx1w4NweE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029894248175390736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029447448071225854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike001: 过两天决定大战N55了\n先练习一下 https://t.co/ghx1w4NweE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029447444510236672"
+          ]
+        },
+        "author_id": "1916543476231208960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029447448071225854",
+        "created_at": "2026-03-05T06:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T07:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029447448071225854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghx1w4NweE",
+              "end": 41,
+              "expanded_url": "https://x.com/fayoubaike001/status/2029447448071225854/photo/1",
+              "media_key": "3_2029447444510236672",
+              "start": 18,
+              "url": "https://t.co/ghx1w4NweE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029447448071225854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7351,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "过两天决定大战N55了\n先练习一下 https://t.co/ghx1w4NweE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 43,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 158
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/qEaBUvqWax",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/qEaBUvqWax"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "发现女友是地雷女后含泪吞下右美当场升天",
+        "pinned_tweet_id": "2029204482140323890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 278,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 276
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2020210264873005104",
+    "created_at": "2026-02-07T18:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T19:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020210264873005104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020210264873005104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020159741436014644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: od都会损伤记忆力 推荐使用促智药比如IDRA-21 促进大脑突触间的诱导LTP 促进学习的效果并能明显改善学习和记忆 逆转阿普唑仑或东莨菪碱诱发的认知障碍方面 以及苯基吡拉西坦 它能增强认知功能和抗疲劳作用 并在脑损伤模型中表现出神经保护效…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2020159734477955072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkMk0MbIAAIizp.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2020210264873005104",
+        "created_at": "2026-02-07T18:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020210264873005104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020210264873005104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020159741436014644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: od都会损伤记忆力 推荐使用促智药比如IDRA-21 促进大脑突触间的诱导LTP 促进学习的效果并能明显改善学习和记忆 逆转阿普唑仑或东莨菪碱诱发的认知障碍方面 以及苯基吡拉西坦 它能增强认知功能和抗疲劳作用 并在脑损伤模型中表现出神经保护效…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020159734477955072"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "2020159741436014644",
+        "created_at": "2026-02-07T15:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020159741436014644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQBk7a5z3L",
+              "end": 174,
+              "expanded_url": "https://x.com/overdose_six/status/2020159741436014644/photo/1",
+              "media_key": "3_2020159734477955072",
+              "start": 151,
+              "url": "https://t.co/dQBk7a5z3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020159741436014644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 508,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od都会损伤记忆力 推荐使用促智药比如IDRA-21 促进大脑突触间的诱导LTP 促进学习的效果并能明显改善学习和记忆 逆转阿普唑仑或东莨菪碱诱发的认知障碍方面 以及苯基吡拉西坦 它能增强认知功能和抗疲劳作用 并在脑损伤模型中表现出神经保护效果 全球范围内苯基吡拉西坦逐渐被视为一种有效的认知增强药物 https://t.co/dQBk7a5z3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "幻想中",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 98
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "太空极乐百科:https://t.co/yzGHPrJoAg  | 接受药物报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 30,
+                "expanded_url": "http://taikong.mom",
+                "start": 7,
+                "url": "https://t.co/yzGHPrJoAg"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 89,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 66,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikomg.mom",
+                "end": 23,
+                "expanded_url": "http://taikomg.mom",
+                "start": 0,
+                "url": "https://t.co/K8Wy74jyq7"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 97,
+          "like_count": 11298,
+          "listed_count": 8,
+          "media_count": 638,
+          "tweet_count": 3791
+        },
+        "url": "https://t.co/K8Wy74jyq7",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

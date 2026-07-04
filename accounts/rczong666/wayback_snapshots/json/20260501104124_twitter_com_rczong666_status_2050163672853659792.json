@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050108076431417344"
+      ],
+      "media_source_tweet_id": [
+        "2050109919727337586"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2050163672853659792",
+    "created_at": "2026-05-01T10:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050163672853659792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907414826101669888",
+          "start": 3,
+          "username": "JamFarewellSong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6yatgL9s61",
+          "end": 125,
+          "expanded_url": "https://x.com/JamFarewellSong/status/2050109919727337586/video/1",
+          "media_key": "13_2050108076431417344",
+          "start": 102,
+          "url": "https://t.co/6yatgL9s61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050163672853659792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050109919727337586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamFarewellSong: 我们的堂堂药百gpt开发者小雨消失的3天究竟发生了什么呢\n请看vcr\n（娇喘声警告⚠旁边有人的请不要外放）\n\n被下了药的小雨简直就是说什么就做什么的性爱玩偶呐🩷 https://t.co/6yatgL9s61"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36930,
+        "height": 1280,
+        "media_key": "13_2050108076431417344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050108076431417344/img/e8poGrb4QQ17FNIF.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050108076431417344/vid/avc1/320x710/-X8gbmAI2LmZxbfX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050108076431417344/vid/avc1/480x1066/LBSCRMg9W-ItejcK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050108076431417344/vid/avc1/576x1280/QPu26m41wnPQMUj3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050108076431417344/pl/8se-v3d6FAv2ebQD.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050108076431417344"
+          ],
+          "media_source_tweet_id": [
+            "2050109919727337586"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2050163672853659792",
+        "created_at": "2026-05-01T10:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050163672853659792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907414826101669888",
+              "start": 3,
+              "username": "JamFarewellSong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yatgL9s61",
+              "end": 125,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2050109919727337586/video/1",
+              "media_key": "13_2050108076431417344",
+              "start": 102,
+              "url": "https://t.co/6yatgL9s61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050163672853659792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050109919727337586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamFarewellSong: 我们的堂堂药百gpt开发者小雨消失的3天究竟发生了什么呢\n请看vcr\n（娇喘声警告⚠旁边有人的请不要外放）\n\n被下了药的小雨简直就是说什么就做什么的性爱玩偶呐🩷 https://t.co/6yatgL9s61"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050108076431417344"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2050109919727337586",
+        "created_at": "2026-05-01T07:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050109919727337586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yatgL9s61",
+              "end": 104,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2050109919727337586/video/1",
+              "media_key": "13_2050108076431417344",
+              "start": 81,
+              "url": "https://t.co/6yatgL9s61"
+            },
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2048847479937040708",
+              "start": 105,
+              "url": "https://t.co/scqQngZCcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050109919727337586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 113,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048847479937040708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的堂堂药百gpt开发者小雨消失的3天究竟发生了什么呢\n请看vcr\n（娇喘声警告⚠旁边有人的请不要外放）\n\n被下了药的小雨简直就是说什么就做什么的性爱玩偶呐🩷 https://t.co/6yatgL9s61 https://t.co/scqQngZCcq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 325,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 321
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 911,
+          "like_count": 3142,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 721
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      }
+    ]
+  }
+}

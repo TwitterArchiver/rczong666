@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2035072432093241396",
+    "created_at": "2026-03-20T19:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T20:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035072432093241396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1890848153525706752",
+          "start": 3,
+          "username": "MoxiYolo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035072432093241396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035023742267740367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoxiYolo: 到底是什么傻逼群聊会设置q群管家晚上12点整at全体提醒睡觉的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2035072432093241396",
+        "created_at": "2026-03-20T19:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T20:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035072432093241396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1890848153525706752",
+              "start": 3,
+              "username": "MoxiYolo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035072432093241396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035023742267740367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoxiYolo: 到底是什么傻逼群聊会设置q群管家晚上12点整at全体提醒睡觉的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890848153525706752",
+        "conversation_id": "2035023742267740367",
+        "created_at": "2026-03-20T16:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035023742267740367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035023742267740367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2448,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "到底是什么傻逼群聊会设置q群管家晚上12点整at全体提醒睡觉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 56,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 169
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T19:38:35.000Z",
+        "description": "↘️此定位是假的↙️ 丨丨男🌈年龄17，网名“消防”并不是消防行业及消防员丨丨此账号仅发布个人言论和各类转发，其转发内容通常包含且不限于“🔞男同”，并不会发布个人生活及本体相关照片。丨丨❤️顺直不跳脸就是好顺直，跳脸必喷丨丨谢拒推特扩列",
+        "id": "1890848153525706752",
+        "location": "距离您0.13km",
+        "name": "消防🏖️➡️♿♿♿",
+        "pinned_tweet_id": "2025197729941782948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024189922018807815/pn7Dxf3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7809,
+          "following_count": 753,
+          "like_count": 1427,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 2245
+        },
+        "username": "MoxiYolo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024667647909257216"
+      ],
+      "media_source_tweet_id": [
+        "2024667657719730307"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2024828723602792552",
+    "created_at": "2026-02-20T12:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024828723602792552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "DouBao8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IomOcsp45A",
+          "end": 47,
+          "expanded_url": "https://x.com/DouBao8964/status/2024667657719730307/photo/1",
+          "media_key": "3_2024667647909257216",
+          "start": 24,
+          "url": "https://t.co/IomOcsp45A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024828723602792552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024667657719730307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DouBao8964: 全体大学生注意 https://t.co/IomOcsp45A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_2024667647909257216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkQf6XbYAAX55N.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024667647909257216"
+          ],
+          "media_source_tweet_id": [
+            "2024667657719730307"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2024828723602792552",
+        "created_at": "2026-02-20T12:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024828723602792552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "DouBao8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IomOcsp45A",
+              "end": 47,
+              "expanded_url": "https://x.com/DouBao8964/status/2024667657719730307/photo/1",
+              "media_key": "3_2024667647909257216",
+              "start": 24,
+              "url": "https://t.co/IomOcsp45A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024828723602792552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024667657719730307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DouBao8964: 全体大学生注意 https://t.co/IomOcsp45A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024667647909257216"
+          ]
+        },
+        "author_id": "1663516164306382852",
+        "conversation_id": "2024667657719730307",
+        "created_at": "2026-02-20T02:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024667657719730307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IomOcsp45A",
+              "end": 31,
+              "expanded_url": "https://x.com/DouBao8964/status/2024667657719730307/photo/1",
+              "media_key": "3_2024667647909257216",
+              "start": 8,
+              "url": "https://t.co/IomOcsp45A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024667657719730307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14764,
+          "like_count": 278,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "全体大学生注意 https://t.co/IomOcsp45A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 131
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 老公@callme_mom_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "callme_mom_"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005501477104889856/F2ohZri8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11153,
+          "following_count": 80,
+          "like_count": 14305,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 6213
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

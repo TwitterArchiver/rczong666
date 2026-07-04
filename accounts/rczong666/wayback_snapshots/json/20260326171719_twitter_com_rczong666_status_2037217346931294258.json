@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2037123088555610533",
+    "created_at": "2026-03-26T17:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037217346931294258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2036316864838770688",
+          "start": 0,
+          "username": "hyoukaatsuinya"
+        },
+        {
+          "end": 24,
+          "id": "1512976991976402949",
+          "start": 16,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037217346931294258",
+    "in_reply_to_user_id": "2036316864838770688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037123088555610533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyoukaatsuinya @bghtnya 恭喜复活QwQ"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [bghtnya].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "bghtnya",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "bghtnya"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2037121301484363780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVPB9NbYAQZWW0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2037121366076653568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVPFt1bgAAVD86.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2037122023386984448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVPr-gbMAA2B-t.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2608,
+        "media_key": "3_2037122046908674049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVPtWIbsAE2rru.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2037123088555610533",
+        "created_at": "2026-03-26T17:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037217346931294258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2036316864838770688",
+              "start": 0,
+              "username": "hyoukaatsuinya"
+            },
+            {
+              "end": 24,
+              "id": "1512976991976402949",
+              "start": 16,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037217346931294258",
+        "in_reply_to_user_id": "2036316864838770688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037123088555610533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyoukaatsuinya @bghtnya 恭喜复活QwQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037121301484363780",
+            "3_2037121366076653568",
+            "3_2037122023386984448",
+            "3_2037122046908674049"
+          ]
+        },
+        "author_id": "2036316864838770688",
+        "conversation_id": "2037123088555610533",
+        "created_at": "2026-03-26T11:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037123088555610533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2036316864838770688",
+              "start": 12,
+              "username": "hyoukaatsuinya"
+            },
+            {
+              "end": 42,
+              "id": "1512976991976402949",
+              "start": 34,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sDi0AGoQId",
+              "end": 141,
+              "expanded_url": "https://x.com/hyoukaatsuinya/status/2037123088555610533/photo/1",
+              "media_key": "3_2037121301484363780",
+              "start": 118,
+              "url": "https://t.co/sDi0AGoQId"
+            },
+            {
+              "display_url": "pic.x.com/sDi0AGoQId",
+              "end": 141,
+              "expanded_url": "https://x.com/hyoukaatsuinya/status/2037123088555610533/photo/1",
+              "media_key": "3_2037121366076653568",
+              "start": 118,
+              "url": "https://t.co/sDi0AGoQId"
+            },
+            {
+              "display_url": "pic.x.com/sDi0AGoQId",
+              "end": 141,
+              "expanded_url": "https://x.com/hyoukaatsuinya/status/2037123088555610533/photo/1",
+              "media_key": "3_2037122023386984448",
+              "start": 118,
+              "url": "https://t.co/sDi0AGoQId"
+            },
+            {
+              "display_url": "pic.x.com/sDi0AGoQId",
+              "end": 141,
+              "expanded_url": "https://x.com/hyoukaatsuinya/status/2037123088555610533/photo/1",
+              "media_key": "3_2037122046908674049",
+              "start": 118,
+              "url": "https://t.co/sDi0AGoQId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037123088555610533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5910,
+          "like_count": 143,
+          "quote_count": 2,
+          "reply_count": 65,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "各位好，这里是冰棍二世（@hyoukaatsuinya ）\n上一世（@bghtnya ）因为开源pr80获取教程被永久封禁了\n这次看广告复活了，但是痛失蓝v和9kfo\n\n之前互fo的推油们，欢迎再互fo，麻烦转帖并相互告知一下，谢谢喵 https://t.co/sDi0AGoQId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 107,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 204
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T05:39:17.000Z",
+        "description": "📖🖥 大一休学 计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 / 🧊🔥 冰棍必须是烫的！/ 🍥 断续含糖 / 🏳‍⚧🏳️‍🌈 MTFTX.TransLes / 🦋 INFP-A / 🏴🚩 Ⓐ☭ 政治立场偏左下 / 🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "http://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/lEpjUafUQn"
+              }
+            ]
+          }
+        },
+        "id": "2036316864838770688",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 二世（互fo寻回）",
+        "pinned_tweet_id": "2037123088555610533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037111119853293568/4aK5yhyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 48,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/lEpjUafUQn",
+        "username": "hyoukaatsuinya",
+        "verified": false
+      }
+    ]
+  }
+}

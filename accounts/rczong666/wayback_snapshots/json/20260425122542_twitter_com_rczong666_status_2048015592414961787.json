@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2048015592414961787",
+    "created_at": "2026-04-25T12:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048015592414961787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2039295991296192512",
+          "start": 3,
+          "username": "MutsumiKawa1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048015592414961787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047943320446636143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MutsumiKawa1i: 求转发拯救更多oder\n帮你们找到的两款接近普瑞的药\n分别为1，4 丁二醇（简称BDO）和菲尼布特\n【1688上均有售】\n但是均未被测试\n其中BDO的风评很好，起到类似pr的抗焦虑 放松 镇静 共情提升的作用，但是使用前请仔细阅读FOW里的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1779,
+        "media_key": "3_2047943316927660032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvBmKWbwAAH8ay.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1787,
+        "media_key": "3_2047943317707796480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvBmNQbsAA2jjC.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2048015592414961787",
+        "created_at": "2026-04-25T12:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048015592414961787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2039295991296192512",
+              "start": 3,
+              "username": "MutsumiKawa1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048015592414961787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047943320446636143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MutsumiKawa1i: 求转发拯救更多oder\n帮你们找到的两款接近普瑞的药\n分别为1，4 丁二醇（简称BDO）和菲尼布特\n【1688上均有售】\n但是均未被测试\n其中BDO的风评很好，起到类似pr的抗焦虑 放松 镇静 共情提升的作用，但是使用前请仔细阅读FOW里的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047943316927660032",
+            "3_2047943317707796480"
+          ]
+        },
+        "author_id": "2039295991296192512",
+        "conversation_id": "2047943320446636143",
+        "created_at": "2026-04-25T07:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047943320446636143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0FshMyvMp",
+              "end": 155,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2047943320446636143/photo/1",
+              "media_key": "3_2047943316927660032",
+              "start": 132,
+              "url": "https://t.co/T0FshMyvMp"
+            },
+            {
+              "display_url": "pic.x.com/T0FshMyvMp",
+              "end": 155,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2047943320446636143/photo/1",
+              "media_key": "3_2047943317707796480",
+              "start": 132,
+              "url": "https://t.co/T0FshMyvMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047943320446636143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 379,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "求转发拯救更多oder\n帮你们找到的两款接近普瑞的药\n分别为1，4 丁二醇（简称BDO）和菲尼布特\n【1688上均有售】\n但是均未被测试\n其中BDO的风评很好，起到类似pr的抗焦虑 放松 镇静 共情提升的作用，但是使用前请仔细阅读FOW里的相关介绍，否则会很危险 https://t.co/T0FshMyvMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 235,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 307
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T10:57:57.000Z",
+        "description": "小睦的3代目转生号，前世：@MutsumiXiaomu     是位边od边支黑的小可爱喵~    这一生也要坚持不懈地爱你们哦ヾ(^▽^*)))     亲爱的od导师：@tanka_TWT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "MutsumiXiaomu"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tanka_TWT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/vcFGP6Sdi8"
+              }
+            ]
+          }
+        },
+        "id": "2039295991296192512",
+        "location": "为这个世界而祷哀吧",
+        "name": "MutsumiKawa1i 🇯🇵",
+        "pinned_tweet_id": "2039680449191293114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039303241511604225/Nn4jEtqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 368,
+          "like_count": 1430,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/vcFGP6Sdi8",
+        "username": "MutsumiKawa1i",
+        "verified": false
+      }
+    ]
+  }
+}

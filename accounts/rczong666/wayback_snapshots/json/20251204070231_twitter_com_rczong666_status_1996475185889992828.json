@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "1996475185889992828",
+    "created_at": "2025-12-04T07:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T08:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996475185889992828"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996475185889992828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Edge神经的密码和自动补充就像一颗地雷一样埋在我的浏览器里\n我不知道什么时候点开搜索栏就会弹出一堆莫名其妙的羞耻tag出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "1996475185889992828",
+        "created_at": "2025-12-04T07:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996475185889992828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996475185889992828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Edge神经的密码和自动补充就像一颗地雷一样埋在我的浏览器里\n我不知道什么时候点开搜索栏就会弹出一堆莫名其妙的羞耻tag出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "明日方舟/星铁/火影手游玩家，算法竞赛爱好者，本科在读，服用精神药物中",
+        "id": "1901685825076973568",
+        "location": "现实世界",
+        "name": "Forget-Me-Not",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

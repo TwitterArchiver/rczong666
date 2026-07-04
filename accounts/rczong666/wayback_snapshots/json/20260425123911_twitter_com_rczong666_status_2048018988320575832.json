@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2048018988320575832",
+    "created_at": "2026-04-25T12:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048018988320575832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035035981242671106",
+          "start": 3,
+          "username": "MissLi1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048018988320575832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041512114763010244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MissLi1207: 海外od药品总集篇，全是国内可以买到的dxm和可待因，二氢可待因。\n后续还会接着找一些国内能买到的药品，所以此番并没有完结。\n楼下帖子只发药品主要成分和购买链接，非单方的药请自行了副作用斟酌对待。\n总之请严肃对待阿片类成瘾，od要注意安全。以及玩…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2041512110077997056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTocp3bcAASh7X.jpg",
+        "width": 2880
+      },
+      {
+        "height": 2880,
+        "media_key": "3_2041512109226463232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTocmsaEAACdbF.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2048018988320575832",
+        "created_at": "2026-04-25T12:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048018988320575832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035035981242671106",
+              "start": 3,
+              "username": "MissLi1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048018988320575832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041512114763010244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MissLi1207: 海外od药品总集篇，全是国内可以买到的dxm和可待因，二氢可待因。\n后续还会接着找一些国内能买到的药品，所以此番并没有完结。\n楼下帖子只发药品主要成分和购买链接，非单方的药请自行了副作用斟酌对待。\n总之请严肃对待阿片类成瘾，od要注意安全。以及玩…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041512110077997056",
+            "3_2041512109226463232"
+          ]
+        },
+        "author_id": "2035035981242671106",
+        "conversation_id": "2041512114763010244",
+        "created_at": "2026-04-07T13:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041512114763010244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OculX8R612",
+              "end": 158,
+              "expanded_url": "https://x.com/MissLi1207/status/2041512114763010244/photo/1",
+              "media_key": "3_2041512110077997056",
+              "start": 135,
+              "url": "https://t.co/OculX8R612"
+            },
+            {
+              "display_url": "pic.x.com/OculX8R612",
+              "end": 158,
+              "expanded_url": "https://x.com/MissLi1207/status/2041512114763010244/photo/1",
+              "media_key": "3_2041512109226463232",
+              "start": 135,
+              "url": "https://t.co/OculX8R612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041512114763010244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 4625,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "海外od药品总集篇，全是国内可以买到的dxm和可待因，二氢可待因。\n后续还会接着找一些国内能买到的药品，所以此番并没有完结。\n楼下帖子只发药品主要成分和购买链接，非单方的药请自行了副作用斟酌对待。\n总之请严肃对待阿片类成瘾，od要注意安全。以及玩阿片类务必配备开塞露。 https://t.co/OculX8R612"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 235,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 310
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T16:49:47.000Z",
+        "description": "分享一些好玩的药品，正在慢慢填坑。\n划到媒体全是药。\n庸医。",
+        "id": "2035035981242671106",
+        "name": "李小姐没有药8964",
+        "pinned_tweet_id": "2041512114763010244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035039117013393410/5Ocd_e7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 59,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 45
+        },
+        "username": "MissLi1207",
+        "verified": false
+      }
+    ]
+  }
+}

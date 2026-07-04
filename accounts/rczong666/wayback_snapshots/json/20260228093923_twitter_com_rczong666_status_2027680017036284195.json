@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2027680017036284195",
+    "created_at": "2026-02-28T09:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T10:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027680017036284195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1975516163078594560",
+          "start": 3,
+          "username": "Freundis21"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Search 24,000+ prescription, OTC, and natural medications. Peer-reviewed, clinically sourced drug information for safer, smarter health decisions.",
+          "display_url": "Drugs.com",
+          "end": 39,
+          "expanded_url": "http://Drugs.com",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2026801417965449217/v6q1Bs89?format=png&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2026801417965449217/v6q1Bs89?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Drugs.com – Know More. Be Sure.",
+          "unwound_url": "https://www.drugs.com/",
+          "url": "https://t.co/A4viFT7hlN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027680017036284195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027451818448470378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freundis21: https://t.co/A4viFT7hlN 这是一个独立药品信息网站，可能很多人已经知道了（）可以在上面查副作用和药物相互作用，避免发生身体不适"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2027680017036284195",
+        "created_at": "2026-02-28T09:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027680017036284195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1975516163078594560",
+              "start": 3,
+              "username": "Freundis21"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Search 24,000+ prescription, OTC, and natural medications. Peer-reviewed, clinically sourced drug information for safer, smarter health decisions.",
+              "display_url": "Drugs.com",
+              "end": 39,
+              "expanded_url": "http://Drugs.com",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2026801417965449217/v6q1Bs89?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026801417965449217/v6q1Bs89?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Drugs.com – Know More. Be Sure.",
+              "unwound_url": "https://www.drugs.com/",
+              "url": "https://t.co/A4viFT7hlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027680017036284195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027451818448470378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freundis21: https://t.co/A4viFT7hlN 这是一个独立药品信息网站，可能很多人已经知道了（）可以在上面查副作用和药物相互作用，避免发生身体不适"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975516163078594560",
+        "conversation_id": "2027451818448470378",
+        "created_at": "2026-02-27T18:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027451818448470378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Search 24,000+ prescription, OTC, and natural medications. Peer-reviewed, clinically sourced drug information for safer, smarter health decisions.",
+              "display_url": "Drugs.com",
+              "end": 23,
+              "expanded_url": "http://Drugs.com",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2026801417965449217/v6q1Bs89?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026801417965449217/v6q1Bs89?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Drugs.com – Know More. Be Sure.",
+              "unwound_url": "https://www.drugs.com/",
+              "url": "https://t.co/A4viFT7hlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027451818448470378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 2116,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A4viFT7hlN 这是一个独立药品信息网站，可能很多人已经知道了（）可以在上面查副作用和药物相互作用，避免发生身体不适"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 35,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 146
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物/Freundis。无言直关抱歉，查成分互fo。匿名提问https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 54,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 31,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 685,
+          "like_count": 7524,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1104
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

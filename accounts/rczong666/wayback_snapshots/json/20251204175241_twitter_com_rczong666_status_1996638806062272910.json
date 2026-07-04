@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "1996638806062272910",
+    "created_at": "2025-12-04T17:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T18:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996638806062272910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1750065039439237120",
+          "start": 3,
+          "username": "fantxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996638806062272910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996470107158233279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fantxu: 一篇教你查询推特账号是否被限流\n\n老师们可以用这个网址查询自己推特账号是否正常，链接我放评论区，\n\n全绿代表账号正常，\n\n上面这两个红了就限流了，别人在搜索框搜你用户名不显示\n\n下面两个红了就被影子禁令了，别人看不到你的评论，\n被系统判定为营销账号… h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1996468502501445632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Thhnja0AAZNiU.jpg",
+        "width": 939
+      },
+      {
+        "height": 117,
+        "media_key": "3_1996468560290525184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Thk-1aMAAfQMK.png",
+        "width": 747
+      },
+      {
+        "height": 135,
+        "media_key": "3_1996468784060911617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ThyAcbUAEk4gk.png",
+        "width": 863
+      },
+      {
+        "height": 321,
+        "media_key": "3_1996469809341677568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Titr6aQAAsAlX.png",
+        "width": 777
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "1996638806062272910",
+        "created_at": "2025-12-04T17:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996638806062272910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1750065039439237120",
+              "start": 3,
+              "username": "fantxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996638806062272910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996470107158233279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fantxu: 一篇教你查询推特账号是否被限流\n\n老师们可以用这个网址查询自己推特账号是否正常，链接我放评论区，\n\n全绿代表账号正常，\n\n上面这两个红了就限流了，别人在搜索框搜你用户名不显示\n\n下面两个红了就被影子禁令了，别人看不到你的评论，\n被系统判定为营销账号… h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996468502501445632",
+            "3_1996468560290525184",
+            "3_1996468784060911617",
+            "3_1996469809341677568"
+          ]
+        },
+        "author_id": "1750065039439237120",
+        "conversation_id": "1996470107158233279",
+        "created_at": "2025-12-04T06:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996470107158233279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhpoNYvaqu",
+              "end": 148,
+              "expanded_url": "https://x.com/fantxu/status/1996470107158233279/photo/1",
+              "media_key": "3_1996468502501445632",
+              "start": 125,
+              "url": "https://t.co/qhpoNYvaqu"
+            },
+            {
+              "display_url": "pic.x.com/qhpoNYvaqu",
+              "end": 148,
+              "expanded_url": "https://x.com/fantxu/status/1996470107158233279/photo/1",
+              "media_key": "3_1996468560290525184",
+              "start": 125,
+              "url": "https://t.co/qhpoNYvaqu"
+            },
+            {
+              "display_url": "pic.x.com/qhpoNYvaqu",
+              "end": 148,
+              "expanded_url": "https://x.com/fantxu/status/1996470107158233279/photo/1",
+              "media_key": "3_1996468784060911617",
+              "start": 125,
+              "url": "https://t.co/qhpoNYvaqu"
+            },
+            {
+              "display_url": "pic.x.com/qhpoNYvaqu",
+              "end": 148,
+              "expanded_url": "https://x.com/fantxu/status/1996470107158233279/photo/1",
+              "media_key": "3_1996469809341677568",
+              "start": 125,
+              "url": "https://t.co/qhpoNYvaqu"
+            },
+            {
+              "display_url": "x.com/0xCheshire/sta…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/0xCheshire/status/1996463753852825713",
+              "start": 149,
+              "url": "https://t.co/2EVyg9dsFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996470107158233279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一篇教你查询推特账号是否被限流\n\n老师们可以用这个网址查询自己推特账号是否正常，链接我放评论区，\n\n全绿代表账号正常，\n\n上面这两个红了就限流了，别人在搜索框搜你用户名不显示\n\n下面两个红了就被影子禁令了，别人看不到你的评论，\n被系统判定为营销账号\n\n下面的推文红了最好删掉，红推文一多，直接限流了，我用小号测试过\n\n什么情况下会限流 ？\n1，互动太频繁，\n2，跟用AI回复的互动，直接被牵连\n3，经常发擦边视频和图片\n\n一旦限流，不要挣扎，停止发帖，一周自动解除"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 38053,
+          "like_count": 243,
+          "quote_count": 2,
+          "reply_count": 73,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996463753852825713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一篇教你查询推特账号是否被限流\n\n老师们可以用这个网址查询自己推特账号是否正常，链接我放评论区，\n\n全绿代表账号正常，\n\n上面这两个红了就限流了，别人在搜索框搜你用户名不显示\n\n下面两个红了就被影子禁令了，别人看不到你的评论，\n被系统判定为营销账号 https://t.co/qhpoNYvaqu https://t.co/2EVyg9dsFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "明日方舟/星铁/火影手游玩家，算法竞赛爱好者，本科在读，服用精神药物中",
+        "id": "1901685825076973568",
+        "location": "现实世界",
+        "name": "Forget-Me-Not",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T07:56:45.000Z",
+        "description": "农村穷娃，逆天改命，靠的就是币圈！\n14年周杰伦粉，主业十八线内衣设计，副业佛系撸毛。infinex",
+        "id": "1750065039439237120",
+        "name": "范特西.patron",
+        "pinned_tweet_id": "1996197585280012316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992637668975591424/IoUCX97I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 2038,
+          "like_count": 32583,
+          "listed_count": 43,
+          "media_count": 1853,
+          "tweet_count": 25121
+        },
+        "username": "fantxu",
+        "verified": true
+      }
+    ]
+  }
+}

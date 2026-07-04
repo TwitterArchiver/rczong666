@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067125951838986240",
+        "3_2067125957224509440",
+        "3_2067125957245427712"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2067125975658443211",
+    "created_at": "2026-06-17T06:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067125975658443211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4A8aqAzpAw",
+          "end": 171,
+          "expanded_url": "https://x.com/rczong666/status/2067125975658443211/photo/1",
+          "media_key": "3_2067125951838986240",
+          "start": 148,
+          "url": "https://t.co/4A8aqAzpAw"
+        },
+        {
+          "display_url": "pic.x.com/4A8aqAzpAw",
+          "end": 171,
+          "expanded_url": "https://x.com/rczong666/status/2067125975658443211/photo/1",
+          "media_key": "3_2067125957224509440",
+          "start": 148,
+          "url": "https://t.co/4A8aqAzpAw"
+        },
+        {
+          "display_url": "pic.x.com/4A8aqAzpAw",
+          "end": 171,
+          "expanded_url": "https://x.com/rczong666/status/2067125975658443211/photo/1",
+          "media_key": "3_2067125957245427712",
+          "start": 148,
+          "url": "https://t.co/4A8aqAzpAw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067125975658443211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国日报6月17日电\n记者今天从国家禁毒委员会办公室新闻发布会上获悉，根据...有关规定，...决定将二氟乙咪酯等16种物质列入《非药用类麻醉药品和精神药品目录》。本次列管的替来他明，不包括在中国境内批准上市的含替来他明的兽用麻醉药品。相关决定自2026年7月1日起施行。\n（来源：中国日报网） https://t.co/4A8aqAzpAw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067125951838986240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_oGeFaoAAGxJ2.jpg",
+        "width": 977
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2067125957224509440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_oGyJbMAAK-n2.jpg",
+        "width": 950
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067125957245427712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_oGyOaYAAC94Q.jpg",
+        "width": 405
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067125951838986240",
+            "3_2067125957224509440",
+            "3_2067125957245427712"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2067125975658443211",
+        "created_at": "2026-06-17T06:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067125975658443211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4A8aqAzpAw",
+              "end": 171,
+              "expanded_url": "https://x.com/rczong666/status/2067125975658443211/photo/1",
+              "media_key": "3_2067125951838986240",
+              "start": 148,
+              "url": "https://t.co/4A8aqAzpAw"
+            },
+            {
+              "display_url": "pic.x.com/4A8aqAzpAw",
+              "end": 171,
+              "expanded_url": "https://x.com/rczong666/status/2067125975658443211/photo/1",
+              "media_key": "3_2067125957224509440",
+              "start": 148,
+              "url": "https://t.co/4A8aqAzpAw"
+            },
+            {
+              "display_url": "pic.x.com/4A8aqAzpAw",
+              "end": 171,
+              "expanded_url": "https://x.com/rczong666/status/2067125975658443211/photo/1",
+              "media_key": "3_2067125957245427712",
+              "start": 148,
+              "url": "https://t.co/4A8aqAzpAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067125975658443211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国日报6月17日电\n记者今天从国家禁毒委员会办公室新闻发布会上获悉，根据...有关规定，...决定将二氟乙咪酯等16种物质列入《非药用类麻醉药品和精神药品目录》。本次列管的替来他明，不包括在中国境内批准上市的含替来他明的兽用麻醉药品。相关决定自2026年7月1日起施行。\n（来源：中国日报网） https://t.co/4A8aqAzpAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 313,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 327
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

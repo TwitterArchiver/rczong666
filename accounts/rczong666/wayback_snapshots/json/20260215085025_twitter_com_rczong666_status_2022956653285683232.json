@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2022956653285683232",
+    "created_at": "2026-02-15T08:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T09:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022956653285683232"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022956653285683232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "右美前天36t，昨天24t+6t（因为感觉一直没上第三高原，考虑到耐药性临时加了点），今天解离中被我兄弟喊起来更新服务器插件了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2022956653285683232",
+        "created_at": "2026-02-15T08:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022956653285683232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022956653285683232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "右美前天36t，昨天24t+6t（因为感觉一直没上第三高原，考虑到耐药性临时加了点），今天解离中被我兄弟喊起来更新服务器插件了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 111
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2046293415432998931",
+    "created_at": "2026-04-20T18:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T19:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046293417236615361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046293417236615361",
+    "in_reply_to_user_id": "1901685825076973568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046293415432998931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对于平常o愈美片比较多的宝宝们一方面就当买更贵的盐野义是吃细糠了，对身体损失没那么大，另一方面，攒钱的过程也是掉耐受的过程\n同时，禁售后精神小伙没得磕了，od在国内的风气和节奏也必定会减退，在接下来几个月内也大概率不会再遭到像现在这样的铁拳重创了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2046293415432998931",
+        "created_at": "2026-04-20T18:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046293417236615361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046293417236615361",
+        "in_reply_to_user_id": "1901685825076973568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046293415432998931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于平常o愈美片比较多的宝宝们一方面就当买更贵的盐野义是吃细糠了，对身体损失没那么大，另一方面，攒钱的过程也是掉耐受的过程\n同时，禁售后精神小伙没得磕了，od在国内的风气和节奏也必定会减退，在接下来几个月内也大概率不会再遭到像现在这样的铁拳重创了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048428",
+              "name": "Delsym"
+            }
+          }
+        ],
+        "conversation_id": "2046293415432998931",
+        "created_at": "2026-04-20T18:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046293415432998931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046293415432998931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到愚昧普瑞禁售令发出后，社群中的很多人都感到很恐慌，这里还是很有必要为大家解读一下政策，减轻不必要的焦虑🥺\n影响还是有的，但：\n①“禁止通过网络零售”不影响线下去买，同时也不是管制\n②禁止的是“普瑞单方制剂”和“愈美制剂”，不包括加巴喷丁和其他右美复方，故盐野义以及Delsym糖浆均不在此列"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 209,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 291
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

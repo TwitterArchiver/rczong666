@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2049474309484097598",
+    "created_at": "2026-04-29T17:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049541071018103034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823478251614035971",
+          "start": 0,
+          "username": "Inf1nityRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049541071018103034",
+    "in_reply_to_user_id": "1823478251614035971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049474309484097598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inf1nityRC 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049474303482118146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEyBTtXwAIUn7B.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2049474309484097598",
+        "created_at": "2026-04-29T17:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049541071018103034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823478251614035971",
+              "start": 0,
+              "username": "Inf1nityRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049541071018103034",
+        "in_reply_to_user_id": "1823478251614035971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049474309484097598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inf1nityRC 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049474303482118146"
+          ]
+        },
+        "author_id": "1823478251614035971",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049474309484097598",
+        "created_at": "2026-04-29T13:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049474309484097598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRf7MBCkNf",
+              "end": 103,
+              "expanded_url": "https://x.com/Inf1nityRC/status/2049474309484097598/photo/1",
+              "media_key": "3_2049474303482118146",
+              "start": 80,
+              "url": "https://t.co/MRf7MBCkNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049474309484097598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 848,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "新店开业抽奖活动详情请看图\n以及开业大酬宾\n主打产品5.4前\n50%OFF！买三送一\n更多有趣的物质\n欢迎到我们主页的TG频道挑选\n种类齐全，满足你的一切需要 https://t.co/MRf7MBCkNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 322,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 322
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T21:54:41.000Z",
+        "description": "主要营业-解离剂/兴奋剂/致幻剂 需要的可以联系 支持大宗批发/原料购买/量大优惠 /招代理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kbiFvS7eC4k3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kbiFvS7eC4k3YzNl",
+                "start": 0,
+                "url": "https://t.co/kxTQRa7abd"
+              }
+            ]
+          }
+        },
+        "id": "1823478251614035971",
+        "location": "购买联系➡️",
+        "name": "INFINITY-RC",
+        "pinned_tweet_id": "2049521551024758856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049204620376068096/tVEM0Yya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 54,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/kxTQRa7abd",
+        "username": "Inf1nityRC",
+        "verified": false
+      }
+    ]
+  }
+}

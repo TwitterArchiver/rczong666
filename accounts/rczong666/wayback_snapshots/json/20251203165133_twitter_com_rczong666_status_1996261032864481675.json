@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996261030587183104"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "1996261032864481675",
+    "created_at": "2025-12-03T16:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T17:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996261032864481675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1aTyC3KCh",
+          "end": 27,
+          "expanded_url": "https://x.com/rczong666/status/1996261032864481675/photo/1",
+          "media_key": "3_1996261030587183104",
+          "start": 4,
+          "url": "https://t.co/g1aTyC3KCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996261032864481675",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚上好 https://t.co/g1aTyC3KCh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_1996261030587183104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Qk1KcasAA8KTf.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996261030587183104"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "1996261032864481675",
+        "created_at": "2025-12-03T16:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T17:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996261032864481675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1aTyC3KCh",
+              "end": 27,
+              "expanded_url": "https://x.com/rczong666/status/1996261032864481675/photo/1",
+              "media_key": "3_1996261030587183104",
+              "start": 4,
+              "url": "https://t.co/g1aTyC3KCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996261032864481675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好 https://t.co/g1aTyC3KCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "",
+        "id": "1901685825076973568",
+        "name": "zong rc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901686130946551808/bLDVJl9S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

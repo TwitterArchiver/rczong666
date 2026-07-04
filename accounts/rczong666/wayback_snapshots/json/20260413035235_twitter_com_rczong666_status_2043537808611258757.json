@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2043537808611258757",
+    "created_at": "2026-04-13T03:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043537808611258757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043537808611258757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043523703103967523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 药娘哭话第五十七则：开证\n\n某日两个药娘去开证，药娘A进去后，医生问她：你都吃了什么药？\n\n药娘A：1️⃣很多，但你能想到的我应该都用过\n\n医生：你什么时候开始吃糖的？\n\n药娘A：2️⃣去年初，不过很早之前就想了\n\n医生：你家人同意你当…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2043537808611258757",
+        "created_at": "2026-04-13T03:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043537808611258757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043537808611258757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043523703103967523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 药娘哭话第五十七则：开证\n\n某日两个药娘去开证，药娘A进去后，医生问她：你都吃了什么药？\n\n药娘A：1️⃣很多，但你能想到的我应该都用过\n\n医生：你什么时候开始吃糖的？\n\n药娘A：2️⃣去年初，不过很早之前就想了\n\n医生：你家人同意你当…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2043523703103967523",
+        "created_at": "2026-04-13T02:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:54:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043523221337862184",
+          "2043523703103967523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043523703103967523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "药娘哭话第五十七则：开证\n\n某日两个药娘去开证，药娘A进去后，医生问她：你都吃了什么药？\n\n药娘A：1️⃣很多，但你能想到的我应该都用过\n\n医生：你什么时候开始吃糖的？\n\n药娘A：2️⃣去年初，不过很早之前就想了\n\n医生：你家人同意你当女孩子吗？\n\n药娘A（已成年）：3️⃣大概率是，不过现在还不完全确定\n\n然后药娘A开证成功，出来后，药娘B问她该怎么回答医生，然而药娘A有别的事，没时间详细交代，就直接告诉她：她问你三个问题，你分别答1️⃣2️⃣3️⃣就行\n\n药娘B进入诊室后，医生看她照片和真人差别很大，不放心所以问了一句：你的名字是什么？\n\n药娘B：很多，但你能想到的我应该都用过\n\n医生很困惑，又问：你是什么时候出生的？\n\n药娘B：去年初，不过很早之前就想了\n\n医生很无语，问她：你是不是有精神分裂？\n\n药娘B：大概率是，不过现在还不完全确定\n\n医生：没事，我帮你确定了\n\n于是，医生给她开的诊断证明上写着：精神分裂症"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药娘哭话第五十七则：开证\n\n某日两个药娘去开证，药娘A进去后，医生问她：你都吃了什么药？\n\n药娘A：1️⃣很多，但你能想到的我应该都用过\n\n医生：你什么时候开始吃糖的？\n\n药娘A：2️⃣去年初，不过很早之前就想了\n\n医生：你家人同意你当女孩子吗？\n\n药娘A（已成年）：3️⃣大概率是，不过现在还不完全确定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 170,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 272
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4084,
+          "following_count": 3142,
+          "like_count": 1210,
+          "listed_count": 15,
+          "media_count": 223,
+          "tweet_count": 1522
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

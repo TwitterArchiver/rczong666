@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046478050007867392"
+      ],
+      "media_source_tweet_id": [
+        "2046589017794150741"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2046593153088766303",
+    "created_at": "2026-04-21T14:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046593153088766303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+          "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+          "end": 71,
+          "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%A7%82%E7%82%B9%E8%AE%A8%E8%AE%BA/%E8%AF%84%E8%AE%BA%E3%80%8AOD%E4%B8%8D%E6%89%A9%E6%95%A3%E5%85%B1%E8%AF%86%E3%80%8B.html",
+          "start": 48,
+          "status": 200,
+          "title": "评论《OD不扩散共识》 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%A7%82%E7%82%B9%E8%AE%A8%E8%AE%BA/%E8%AF%84%E8%AE%BA%E3%80%8AOD%E4%B8%8D%E6%89%A9%E6%95%A3%E5%85%B1%E8%AF%86%E3%80%8B.html",
+          "url": "https://t.co/0meesPGKe3"
+        },
+        {
+          "display_url": "pic.x.com/HcXphYyviW",
+          "end": 95,
+          "expanded_url": "https://x.com/SalviaSWC/status/2046589017794150741/photo/1",
+          "media_key": "3_2046478050007867392",
+          "start": 72,
+          "url": "https://t.co/HcXphYyviW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046593153088766303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046589017794150741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: FOW观点讨论栏目：为什么《OD不扩散共识》已经不再有价值了?\n\nhttps://t.co/0meesPGKe3 https://t.co/HcXphYyviW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2046478050007867392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaM8ZtaYAAwDAQ.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046478050007867392"
+          ],
+          "media_source_tweet_id": [
+            "2046589017794150741"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2046593153088766303",
+        "created_at": "2026-04-21T14:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046593153088766303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 71,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%A7%82%E7%82%B9%E8%AE%A8%E8%AE%BA/%E8%AF%84%E8%AE%BA%E3%80%8AOD%E4%B8%8D%E6%89%A9%E6%95%A3%E5%85%B1%E8%AF%86%E3%80%8B.html",
+              "start": 48,
+              "status": 200,
+              "title": "评论《OD不扩散共识》 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%A7%82%E7%82%B9%E8%AE%A8%E8%AE%BA/%E8%AF%84%E8%AE%BA%E3%80%8AOD%E4%B8%8D%E6%89%A9%E6%95%A3%E5%85%B1%E8%AF%86%E3%80%8B.html",
+              "url": "https://t.co/0meesPGKe3"
+            },
+            {
+              "display_url": "pic.x.com/HcXphYyviW",
+              "end": 95,
+              "expanded_url": "https://x.com/SalviaSWC/status/2046589017794150741/photo/1",
+              "media_key": "3_2046478050007867392",
+              "start": 72,
+              "url": "https://t.co/HcXphYyviW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046593153088766303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046589017794150741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: FOW观点讨论栏目：为什么《OD不扩散共识》已经不再有价值了?\n\nhttps://t.co/0meesPGKe3 https://t.co/HcXphYyviW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046478050007867392"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2046589017794150741",
+        "created_at": "2026-04-21T13:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046589017794150741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 56,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%A7%82%E7%82%B9%E8%AE%A8%E8%AE%BA/%E8%AF%84%E8%AE%BA%E3%80%8AOD%E4%B8%8D%E6%89%A9%E6%95%A3%E5%85%B1%E8%AF%86%E3%80%8B.html",
+              "start": 33,
+              "status": 200,
+              "title": "评论《OD不扩散共识》 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%A7%82%E7%82%B9%E8%AE%A8%E8%AE%BA/%E8%AF%84%E8%AE%BA%E3%80%8AOD%E4%B8%8D%E6%89%A9%E6%95%A3%E5%85%B1%E8%AF%86%E3%80%8B.html",
+              "url": "https://t.co/0meesPGKe3"
+            },
+            {
+              "display_url": "pic.x.com/HcXphYyviW",
+              "end": 80,
+              "expanded_url": "https://x.com/SalviaSWC/status/2046589017794150741/photo/1",
+              "media_key": "3_2046478050007867392",
+              "start": 57,
+              "url": "https://t.co/HcXphYyviW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046589017794150741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "FOW观点讨论栏目：为什么《OD不扩散共识》已经不再有价值了?\n\nhttps://t.co/0meesPGKe3 https://t.co/HcXphYyviW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 211,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 295
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3867,
+          "following_count": 989,
+          "like_count": 22429,
+          "listed_count": 9,
+          "media_count": 451,
+          "tweet_count": 7112
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

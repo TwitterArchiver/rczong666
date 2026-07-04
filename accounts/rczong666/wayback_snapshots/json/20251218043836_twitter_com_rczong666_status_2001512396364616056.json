@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2001512396364616056",
+    "created_at": "2025-12-18T04:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T05:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001512396364616056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1404738934043602947",
+          "start": 3,
+          "username": "Jackywine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001512396364616056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001455028197011685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jackywine: 完整提示词：\n我是一位100岁太奶，这东西看的我头晕眼花，这些知识点 我都看不懂，不过我宝刀未老，依旧有一颗浓厚的热烈的爱 学习新知识的心，我的学习热情一点不减20岁那年，好孩 子，劳驾你帮奶奶把这个pdf理一理，给奶奶说道说道，让 奶奶彻底理解，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2001512396364616056",
+        "created_at": "2025-12-18T04:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T05:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001512396364616056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1404738934043602947",
+              "start": 3,
+              "username": "Jackywine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001512396364616056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001455028197011685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jackywine: 完整提示词：\n我是一位100岁太奶，这东西看的我头晕眼花，这些知识点 我都看不懂，不过我宝刀未老，依旧有一颗浓厚的热烈的爱 学习新知识的心，我的学习热情一点不减20岁那年，好孩 子，劳驾你帮奶奶把这个pdf理一理，给奶奶说道说道，让 奶奶彻底理解，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404738934043602947",
+        "conversation_id": "2001455028197011685",
+        "created_at": "2025-12-18T00:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T01:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001455028197011685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingdu233/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/lingdu233/status/2000751118499115477",
+              "start": 144,
+              "url": "https://t.co/byUkHKkJIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001455028197011685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "完整提示词：\n我是一位100岁太奶，这东西看的我头晕眼花，这些知识点 我都看不懂，不过我宝刀未老，依旧有一颗浓厚的热烈的爱 学习新知识的心，我的学习热情一点不减20岁那年，好孩 子，劳驾你帮奶奶把这个pdf理一理，给奶奶说道说道，让 奶奶彻底理解，彻底看懂，一定要给我讲明白哈，把全文都 给我中英文加上你的解释，你也别蒙奶奶，奶奶最后的希望 就是你啦，小chat呀！ ！ ！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 24660,
+          "like_count": 163,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000751118499115477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完整提示词：\n我是一位100岁太奶，这东西看的我头晕眼花，这些知识点 我都看不懂，不过我宝刀未老，依旧有一颗浓厚的热烈的爱 学习新知识的心，我的学习热情一点不减20岁那年，好孩 子，劳驾你帮奶奶把这个pdf理一理，给奶奶说道说道，让 奶奶彻底理解，彻底看懂，一定要给我讲明白哈，把全文都 https://t.co/byUkHKkJIG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "明日方舟/星铁/火影手游玩家，算法竞赛爱好者，本科在读，服用精神药物中",
+        "id": "1901685825076973568",
+        "location": "现实世界",
+        "name": "Forget-Me-Not",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 61
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-15T09:54:01.000Z",
+        "description": "年终复盘 ing",
+        "id": "1404738934043602947",
+        "name": "Jackywine",
+        "pinned_tweet_id": "1985530977637318836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805875520430915586/x3t_sQdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27422,
+          "following_count": 2851,
+          "like_count": 80502,
+          "listed_count": 247,
+          "media_count": 3807,
+          "tweet_count": 25034
+        },
+        "username": "Jackywine",
+        "verified": true
+      }
+    ]
+  }
+}

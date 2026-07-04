@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043210938128781312"
+      ],
+      "media_source_tweet_id": [
+        "2043211220405420056"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2043230952965751221",
+    "created_at": "2026-04-12T07:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043230952965751221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        },
+        {
+          "end": 84,
+          "id": "1920438574715154432",
+          "start": 72,
+          "username": "jiushubaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/64HWRdcO0V",
+          "end": 140,
+          "expanded_url": "https://x.com/amecandy_x/status/2043211220405420056/photo/1",
+          "media_key": "3_2043210938128781312",
+          "start": 117,
+          "url": "https://t.co/64HWRdcO0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043230952965751221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043211220405420056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: ⚠‼️紧急通知‼️⚠\n根据其微信上的表现，可以断定鸡哥已经100%确认被警方控制\n请立刻block 救赎百科 (@jiushubaike) 这个账号，删掉鸡哥好友以及tg聊天记录\n⚠‼️紧急通知‼️⚠ https://t.co/64HWRdcO0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 177,
+        "media_key": "3_2043210938128781312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrxhdhb0AA8PYE.png",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043210938128781312"
+          ],
+          "media_source_tweet_id": [
+            "2043211220405420056"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2043230952965751221",
+        "created_at": "2026-04-12T07:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043230952965751221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            },
+            {
+              "end": 84,
+              "id": "1920438574715154432",
+              "start": 72,
+              "username": "jiushubaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64HWRdcO0V",
+              "end": 140,
+              "expanded_url": "https://x.com/amecandy_x/status/2043211220405420056/photo/1",
+              "media_key": "3_2043210938128781312",
+              "start": 117,
+              "url": "https://t.co/64HWRdcO0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043230952965751221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043211220405420056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: ⚠‼️紧急通知‼️⚠\n根据其微信上的表现，可以断定鸡哥已经100%确认被警方控制\n请立刻block 救赎百科 (@jiushubaike) 这个账号，删掉鸡哥好友以及tg聊天记录\n⚠‼️紧急通知‼️⚠ https://t.co/64HWRdcO0V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043210938128781312"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2043211220405420056",
+        "created_at": "2026-04-12T06:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043211220405420056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 68,
+              "id": "1920438574715154432",
+              "start": 56,
+              "username": "jiushubaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/64HWRdcO0V",
+              "end": 124,
+              "expanded_url": "https://x.com/amecandy_x/status/2043211220405420056/photo/1",
+              "media_key": "3_2043210938128781312",
+              "start": 101,
+              "url": "https://t.co/64HWRdcO0V"
+            },
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2043199300105277527",
+              "start": 125,
+              "url": "https://t.co/xk1SkyGwkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043211220405420056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 409,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043199300105277527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⚠‼️紧急通知‼️⚠\n根据其微信上的表现，可以断定鸡哥已经100%确认被警方控制\n请立刻block 救赎百科 (@jiushubaike) 这个账号，删掉鸡哥好友以及tg聊天记录\n⚠‼️紧急通知‼️⚠ https://t.co/64HWRdcO0V https://t.co/xk1SkyGwkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 169,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 269
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者 / 抽烟嗑药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 2072,
+          "like_count": 26911,
+          "listed_count": 15,
+          "media_count": 1402,
+          "tweet_count": 9986
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "救赎百科",
+        "pinned_tweet_id": "2036728396714311988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 315,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 170
+        },
+        "username": "jiushubaike",
+        "verified": false
+      }
+    ]
+  }
+}

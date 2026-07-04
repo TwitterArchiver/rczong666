@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023996206758981633",
+        "3_2023996206398271489",
+        "3_2023996206536667136"
+      ],
+      "media_source_tweet_id": [
+        "2023996210957201832",
+        "2023996210957201832",
+        "2023996210957201832"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048428",
+          "name": "Delsym"
+        }
+      }
+    ],
+    "conversation_id": "2024129928145383735",
+    "created_at": "2026-02-18T14:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024129928145383735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916824571128287232",
+          "start": 3,
+          "username": "Spr1ngWlnd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lfR6lbltr2",
+          "end": 83,
+          "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+          "media_key": "3_2023996206758981633",
+          "start": 60,
+          "url": "https://t.co/lfR6lbltr2"
+        },
+        {
+          "display_url": "pic.x.com/lfR6lbltr2",
+          "end": 83,
+          "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+          "media_key": "3_2023996206398271489",
+          "start": 60,
+          "url": "https://t.co/lfR6lbltr2"
+        },
+        {
+          "display_url": "pic.x.com/lfR6lbltr2",
+          "end": 83,
+          "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+          "media_key": "3_2023996206536667136",
+          "start": 60,
+          "url": "https://t.co/lfR6lbltr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024129928145383735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023996210957201832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Spr1ngWlnd: Delsym 单方dxm糖浆\n5ML含有30mg成分\n能用  不苦 橘子味\n购买在淘宝 https://t.co/lfR6lbltr2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2023996206758981633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBat05KbcAEy23E.jpg",
+        "width": 720
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2023996206398271489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBat030bcAEWZr6.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2023996206536667136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBat04VbMAA5_L5.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023996206758981633",
+            "3_2023996206398271489",
+            "3_2023996206536667136"
+          ],
+          "media_source_tweet_id": [
+            "2023996210957201832",
+            "2023996210957201832",
+            "2023996210957201832"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048428",
+              "name": "Delsym"
+            }
+          }
+        ],
+        "conversation_id": "2024129928145383735",
+        "created_at": "2026-02-18T14:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024129928145383735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 3,
+              "username": "Spr1ngWlnd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 83,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206758981633",
+              "start": 60,
+              "url": "https://t.co/lfR6lbltr2"
+            },
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 83,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206398271489",
+              "start": 60,
+              "url": "https://t.co/lfR6lbltr2"
+            },
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 83,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206536667136",
+              "start": 60,
+              "url": "https://t.co/lfR6lbltr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024129928145383735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023996210957201832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Spr1ngWlnd: Delsym 单方dxm糖浆\n5ML含有30mg成分\n能用  不苦 橘子味\n购买在淘宝 https://t.co/lfR6lbltr2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023996206758981633",
+            "3_2023996206398271489",
+            "3_2023996206536667136"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048428",
+              "name": "Delsym"
+            }
+          }
+        ],
+        "conversation_id": "2023996210957201832",
+        "created_at": "2026-02-18T05:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023996210957201832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 67,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206758981633",
+              "start": 44,
+              "url": "https://t.co/lfR6lbltr2"
+            },
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 67,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206398271489",
+              "start": 44,
+              "url": "https://t.co/lfR6lbltr2"
+            },
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 67,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206536667136",
+              "start": 44,
+              "url": "https://t.co/lfR6lbltr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023996210957201832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1982,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Delsym 单方dxm糖浆\n5ML含有30mg成分\n能用  不苦 橘子味\n购买在淘宝 https://t.co/lfR6lbltr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 122
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究版",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 17,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 13
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

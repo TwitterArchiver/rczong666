@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2046981032940106029",
+    "created_at": "2026-04-22T15:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046981032940106029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EoivLanY/statu…",
+          "end": 199,
+          "expanded_url": "https://twitter.com/EoivLanY/status/2046542043611287778",
+          "start": 176,
+          "url": "https://t.co/kn3c7IkfnE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046981032940106029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046542043611287778",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给泪滴老师打一下广告\n绿普瑞75mg：23元，约2倍方舟上面的绿普价\n愈美24t：38元，折1t 1.58元\n五盒以上29元，折1t 1.20元\n对比原pdd云药/杜乐是1t 0.33元\n原pdd愈美胶囊 1t 0.83元\n原pdd新康泰克 1t 1.16元\n盐野义（1t30mg按2t算） 1t 2.2元\n目前我已经下单了几盒愈美，到货后会再写评价 https://t.co/kn3c7IkfnE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2046542034526490624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbHIynbUAAeIfd.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2046542034534801408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbHIypaIAAfnIx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2046542034522300417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbHIymbYAEYi6R.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2046981032940106029",
+        "created_at": "2026-04-22T15:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046981032940106029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EoivLanY/statu…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/EoivLanY/status/2046542043611287778",
+              "start": 176,
+              "url": "https://t.co/kn3c7IkfnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046981032940106029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046542043611287778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给泪滴老师打一下广告\n绿普瑞75mg：23元，约2倍方舟上面的绿普价\n愈美24t：38元，折1t 1.58元\n五盒以上29元，折1t 1.20元\n对比原pdd云药/杜乐是1t 0.33元\n原pdd愈美胶囊 1t 0.83元\n原pdd新康泰克 1t 1.16元\n盐野义（1t30mg按2t算） 1t 2.2元\n目前我已经下单了几盒愈美，到货后会再写评价 https://t.co/kn3c7IkfnE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046542034526490624",
+            "3_2046542034534801408",
+            "3_2046542034522300417"
+          ]
+        },
+        "author_id": "1878091007453286400",
+        "conversation_id": "2046542043611287778",
+        "created_at": "2026-04-21T10:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046542043611287778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lD6BOtPucL",
+              "end": 38,
+              "expanded_url": "https://x.com/EoivLanY/status/2046542043611287778/photo/1",
+              "media_key": "3_2046542034526490624",
+              "start": 15,
+              "url": "https://t.co/lD6BOtPucL"
+            },
+            {
+              "display_url": "pic.x.com/lD6BOtPucL",
+              "end": 38,
+              "expanded_url": "https://x.com/EoivLanY/status/2046542043611287778/photo/1",
+              "media_key": "3_2046542034534801408",
+              "start": 15,
+              "url": "https://t.co/lD6BOtPucL"
+            },
+            {
+              "display_url": "pic.x.com/lD6BOtPucL",
+              "end": 38,
+              "expanded_url": "https://x.com/EoivLanY/status/2046542043611287778/photo/1",
+              "media_key": "3_2046542034522300417",
+              "start": 15,
+              "url": "https://t.co/lD6BOtPucL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046542043611287778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞极速出 愈美片也可以拿货 https://t.co/lD6BOtPucL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 219,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 299
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T14:46:17.000Z",
+        "description": "耐药王子 10800mg普瑞耐活王 交朋友/互fo/血图od/喜欢听歌/可线下 🚪25 可半绿 验证5r 184/156的男孩子 双相/重度抑郁/重度焦虑",
+        "id": "1878091007453286400",
+        "location": "有你爱我的地方",
+        "name": "泪滴滴滴",
+        "pinned_tweet_id": "2042118278856999110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 63,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 33
+        },
+        "username": "EoivLanY",
+        "verified": false
+      }
+    ]
+  }
+}

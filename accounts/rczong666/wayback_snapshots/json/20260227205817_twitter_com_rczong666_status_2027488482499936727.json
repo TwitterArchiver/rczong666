@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027289768841895936"
+      ],
+      "media_source_tweet_id": [
+        "2027289777528275208"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2027488482499936727",
+    "created_at": "2026-02-27T20:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T21:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027488482499936727"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "抽奖"
+        },
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "抽幸运儿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887559736985591812",
+          "start": 3,
+          "username": "HsuNeko_OwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S8n5PfBqYB",
+          "end": 122,
+          "expanded_url": "https://x.com/HsuNeko_OwO/status/2027289777528275208/photo/1",
+          "media_key": "3_2027289768841895936",
+          "start": 99,
+          "url": "https://t.co/S8n5PfBqYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027488482499936727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027289777528275208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HsuNeko_OwO: 两千fo了我天 咋发逼发脸没人看一发丑照全来看🥹\n不管了素猫以后会继续努力的！\nroll一个疯四三杯星巴克 fo我后转发即抽\n口令是 素猫牛逼\n#抽奖 #抽幸运儿 https://t.co/S8n5PfBqYB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2027289768841895936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJhTcCa4AAxS_g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027289768841895936"
+          ],
+          "media_source_tweet_id": [
+            "2027289777528275208"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2027488482499936727",
+        "created_at": "2026-02-27T20:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027488482499936727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "抽奖"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "抽幸运儿"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887559736985591812",
+              "start": 3,
+              "username": "HsuNeko_OwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8n5PfBqYB",
+              "end": 122,
+              "expanded_url": "https://x.com/HsuNeko_OwO/status/2027289777528275208/photo/1",
+              "media_key": "3_2027289768841895936",
+              "start": 99,
+              "url": "https://t.co/S8n5PfBqYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027488482499936727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027289777528275208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HsuNeko_OwO: 两千fo了我天 咋发逼发脸没人看一发丑照全来看🥹\n不管了素猫以后会继续努力的！\nroll一个疯四三杯星巴克 fo我后转发即抽\n口令是 素猫牛逼\n#抽奖 #抽幸运儿 https://t.co/S8n5PfBqYB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027289768841895936"
+          ]
+        },
+        "author_id": "1887559736985591812",
+        "conversation_id": "2027289777528275208",
+        "created_at": "2026-02-27T07:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027289777528275208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "抽奖"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "抽幸运儿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8n5PfBqYB",
+              "end": 105,
+              "expanded_url": "https://x.com/HsuNeko_OwO/status/2027289777528275208/photo/1",
+              "media_key": "3_2027289768841895936",
+              "start": 82,
+              "url": "https://t.co/S8n5PfBqYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027289777528275208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1473,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "两千fo了我天 咋发逼发脸没人看一发丑照全来看🥹\n不管了素猫以后会继续努力的！\nroll一个疯四三杯星巴克 fo我后转发即抽\n口令是 素猫牛逼\n#抽奖 #抽幸运儿 https://t.co/S8n5PfBqYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断版）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 35,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 143
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T17:52:04.000Z",
+        "description": "MtF丨179cm 60kg丨08年生丨量产系丨里百合丨完全遵守X规则丨性瘾丨可接线下丨可飞全国丨重要的人@chayeshule丨自用29元包年vpn→https://t.co/84DrylnDp2丨推广自辩丨防失联: @HsuNeko_AwA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "chayeshule"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "HsuNeko_AwA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "velcel.yycloud.tz69.vip/#/register?cod…",
+                "end": 99,
+                "expanded_url": "https://velcel.yycloud.tz69.vip/#/register?code=cG1xIVxa",
+                "start": 76,
+                "url": "https://t.co/84DrylnDp2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ScarletNyabye",
+                "end": 23,
+                "expanded_url": "http://t.me/ScarletNyabye",
+                "start": 0,
+                "url": "https://t.co/p3FcFf3coe"
+              }
+            ]
+          }
+        },
+        "id": "1887559736985591812",
+        "location": "🚪61.6→口令红包&赞赏码，不过🚪不闲聊",
+        "name": "Scarlet素貓🍥",
+        "pinned_tweet_id": "1991615758040985744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893777475471130625/yji55Sz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 140,
+          "like_count": 928,
+          "listed_count": 10,
+          "media_count": 83,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/p3FcFf3coe",
+        "username": "HsuNeko_OwO",
+        "verified": false
+      }
+    ]
+  }
+}

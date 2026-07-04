@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2036149598507712681",
+    "created_at": "2026-03-23T18:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T19:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036149598507712681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036149598507712681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036088201501376722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 日常抽奖第一弹！\n揪3个小可爱送一份礼物\n奖品：透明鱼板🍥钥匙扣/粉蓝白配色TNT/RTX4090/5090PRO模型钥匙扣（风扇可转）/投资铀条 随机发\n总计将抽出不少于30份奖品\n开奖时间为：2026年3月25日（UTC+8）21:00分开奖…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036149598507712681].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036149598507712681",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036149598507712681"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036088172275486720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGjZ6_a0AAb4fq.jpg",
+        "width": 908
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036088174347436032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGjaCtaQAAI2i0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2036088173697372160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGjaASbEAA7WFP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1462,
+        "media_key": "3_2036088173881933825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGjaA-bQAEA36I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036088172275486720",
+            "3_2036088174347436032",
+            "3_2036088173697372160",
+            "3_2036088173881933825"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2036088201501376722",
+        "created_at": "2026-03-23T14:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036088201501376722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 137,
+              "id": "1368897611672018953",
+              "start": 127,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGNXLfBWuY",
+              "end": 190,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036088201501376722/photo/1",
+              "media_key": "3_2036088172275486720",
+              "start": 167,
+              "url": "https://t.co/IGNXLfBWuY"
+            },
+            {
+              "display_url": "pic.x.com/IGNXLfBWuY",
+              "end": 190,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036088201501376722/photo/1",
+              "media_key": "3_2036088174347436032",
+              "start": 167,
+              "url": "https://t.co/IGNXLfBWuY"
+            },
+            {
+              "display_url": "pic.x.com/IGNXLfBWuY",
+              "end": 190,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036088201501376722/photo/1",
+              "media_key": "3_2036088173697372160",
+              "start": 167,
+              "url": "https://t.co/IGNXLfBWuY"
+            },
+            {
+              "display_url": "pic.x.com/IGNXLfBWuY",
+              "end": 190,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2036088201501376722/photo/1",
+              "media_key": "3_2036088173881933825",
+              "start": 167,
+              "url": "https://t.co/IGNXLfBWuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036088201501376722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2093,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "日常抽奖第一弹！\n揪3个小可爱送一份礼物\n奖品：透明鱼板🍥钥匙扣/粉蓝白配色TNT/RTX4090/5090PRO模型钥匙扣（风扇可转）/投资铀条 随机发\n总计将抽出不少于30份奖品\n开奖时间为：2026年3月25日（UTC+8）21:00分开奖\n关注 @XUEQIUxka 后在这条推文中转发&amp;点赞&amp;评论，均可参与 https://t.co/IGNXLfBWuY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day6）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 74,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 185
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6333,
+          "following_count": 1820,
+          "like_count": 21706,
+          "listed_count": 27,
+          "media_count": 428,
+          "tweet_count": 2155
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

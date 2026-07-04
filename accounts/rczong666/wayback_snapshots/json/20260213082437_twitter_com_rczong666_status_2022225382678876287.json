@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022104978467569664"
+      ],
+      "media_source_tweet_id": [
+        "2022104981114171553"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2022225382678876287",
+    "created_at": "2026-02-13T08:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022225382678876287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4lZY0nhscm",
+          "end": 126,
+          "expanded_url": "https://x.com/_Shikieiki/status/2022104981114171553/photo/1",
+          "media_key": "3_2022104978467569664",
+          "start": 103,
+          "url": "https://t.co/4lZY0nhscm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022225382678876287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022104981114171553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: 可能是CYP2D6慢代谢者 血药浓度下降比较慢\n也算是高剂量连续使用解离剂的余晖\n停药后脑内NMDA信号尚未恢复和下游神经信号重塑的组合结果\n单纯的解离没有比较好的反制措施 https://t.co/4lZY0nhscm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022104978467569664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_1w6wbwAA3odK.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022104978467569664"
+          ],
+          "media_source_tweet_id": [
+            "2022104981114171553"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2022225382678876287",
+        "created_at": "2026-02-13T08:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022225382678876287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lZY0nhscm",
+              "end": 126,
+              "expanded_url": "https://x.com/_Shikieiki/status/2022104981114171553/photo/1",
+              "media_key": "3_2022104978467569664",
+              "start": 103,
+              "url": "https://t.co/4lZY0nhscm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022225382678876287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022104981114171553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: 可能是CYP2D6慢代谢者 血药浓度下降比较慢\n也算是高剂量连续使用解离剂的余晖\n停药后脑内NMDA信号尚未恢复和下游神经信号重塑的组合结果\n单纯的解离没有比较好的反制措施 https://t.co/4lZY0nhscm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022104978467569664"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2022104981114171553",
+        "created_at": "2026-02-13T00:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T01:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022104981114171553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lZY0nhscm",
+              "end": 110,
+              "expanded_url": "https://x.com/_Shikieiki/status/2022104981114171553/photo/1",
+              "media_key": "3_2022104978467569664",
+              "start": 87,
+              "url": "https://t.co/4lZY0nhscm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022104981114171553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可能是CYP2D6慢代谢者 血药浓度下降比较慢\n也算是高剂量连续使用解离剂的余晖\n停药后脑内NMDA信号尚未恢复和下游神经信号重塑的组合结果\n单纯的解离没有比较好的反制措施 https://t.co/4lZY0nhscm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 106
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2014283443593740562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 620,
+          "like_count": 19168,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

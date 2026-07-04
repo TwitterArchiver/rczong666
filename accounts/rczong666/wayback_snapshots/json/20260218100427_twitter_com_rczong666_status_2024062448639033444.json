@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024062445132845056"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024062448639033444",
+    "created_at": "2026-02-18T10:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024062448639033444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SeY2IXFD27",
+          "end": 160,
+          "expanded_url": "https://x.com/rczong666/status/2024062448639033444/photo/1",
+          "media_key": "3_2024062445132845056",
+          "start": 137,
+          "url": "https://t.co/SeY2IXFD27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024062448639033444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "然后我直接语言障碍了，我妈跟我说我当时语无伦次，说什么厕所里面有树啥的，后面又睡了几个小时，然后晚安开始发力，我开始做一些令我十分不适的梦，像是发消息的时候的文字恐怖谷，还有被团队踢出去这种，以前o晚安都没有做噩梦，难道是右美的原因？\n（我描述的文字恐怖谷类似于下图这种） https://t.co/SeY2IXFD27"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2024062445132845056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbqEeVaEAA375Z.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024062445132845056"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024062448639033444",
+        "created_at": "2026-02-18T10:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024062448639033444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SeY2IXFD27",
+              "end": 160,
+              "expanded_url": "https://x.com/rczong666/status/2024062448639033444/photo/1",
+              "media_key": "3_2024062445132845056",
+              "start": 137,
+              "url": "https://t.co/SeY2IXFD27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024062448639033444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "然后我直接语言障碍了，我妈跟我说我当时语无伦次，说什么厕所里面有树啥的，后面又睡了几个小时，然后晚安开始发力，我开始做一些令我十分不适的梦，像是发消息的时候的文字恐怖谷，还有被团队踢出去这种，以前o晚安都没有做噩梦，难道是右美的原因？\n（我描述的文字恐怖谷类似于下图这种） https://t.co/SeY2IXFD27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 122
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023534910288633856"
+      ],
+      "media_source_tweet_id": [
+        "2023534912679407764"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2024427464408387650",
+    "created_at": "2026-02-19T10:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T11:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024427464408387650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985710009041436673",
+          "start": 3,
+          "username": "lushq2uc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/59EkF1NemB",
+          "end": 89,
+          "expanded_url": "https://x.com/lushq2uc/status/2023534912679407764/photo/1",
+          "media_key": "3_2023534910288633856",
+          "start": 66,
+          "url": "https://t.co/59EkF1NemB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024427464408387650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 305
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023534912679407764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lushq2uc: 他妈的大过年的，终于让老子发财了。抽200个人，每人送出100的红包，凡是关注、转发、评论的都有概率。 https://t.co/59EkF1NemB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2023534910288633856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUKR55bIAA_ddX.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023534910288633856"
+          ],
+          "media_source_tweet_id": [
+            "2023534912679407764"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2024427464408387650",
+        "created_at": "2026-02-19T10:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024427464408387650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985710009041436673",
+              "start": 3,
+              "username": "lushq2uc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/59EkF1NemB",
+              "end": 89,
+              "expanded_url": "https://x.com/lushq2uc/status/2023534912679407764/photo/1",
+              "media_key": "3_2023534910288633856",
+              "start": 66,
+              "url": "https://t.co/59EkF1NemB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024427464408387650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023534912679407764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lushq2uc: 他妈的大过年的，终于让老子发财了。抽200个人，每人送出100的红包，凡是关注、转发、评论的都有概率。 https://t.co/59EkF1NemB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023534910288633856"
+          ]
+        },
+        "author_id": "1985710009041436673",
+        "conversation_id": "2023534912679407764",
+        "created_at": "2026-02-16T23:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023534912679407764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59EkF1NemB",
+              "end": 75,
+              "expanded_url": "https://x.com/lushq2uc/status/2023534912679407764/photo/1",
+              "media_key": "3_2023534910288633856",
+              "start": 52,
+              "url": "https://t.co/59EkF1NemB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023534912679407764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 88870,
+          "like_count": 566,
+          "quote_count": 5,
+          "reply_count": 525,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的大过年的，终于让老子发财了。抽200个人，每人送出100的红包，凡是关注、转发、评论的都有概率。 https://t.co/59EkF1NemB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "只知道od的神人",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 127
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T14:06:18.000Z",
+        "description": "互关必回",
+        "id": "1985710009041436673",
+        "location": "The UK",
+        "name": "露水",
+        "pinned_tweet_id": "2024325359983087814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994765736607453192/Si73T_SN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 148,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 712
+        },
+        "username": "lushq2uc",
+        "verified": false
+      }
+    ]
+  }
+}

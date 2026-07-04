@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996457833932709888"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996457847283204606",
+    "created_at": "2025-12-04T05:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T06:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996457847283204606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/URTUcilLQE",
+          "end": 66,
+          "expanded_url": "https://x.com/rczong666/status/1996457847283204606/photo/1",
+          "media_key": "3_1996457833932709888",
+          "start": 43,
+          "url": "https://t.co/URTUcilLQE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996457847283204606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "老干妈炒饭\n可能是第一次吃老干妈炒的东西\n对我这种几乎完全不能吃辣的人来说不是很友好 https://t.co/URTUcilLQE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1996457833932709888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7TX0oCa4AA0iyg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996457833932709888"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996457847283204606",
+        "created_at": "2025-12-04T05:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996457847283204606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/URTUcilLQE",
+              "end": 66,
+              "expanded_url": "https://x.com/rczong666/status/1996457847283204606/photo/1",
+              "media_key": "3_1996457833932709888",
+              "start": 43,
+              "url": "https://t.co/URTUcilLQE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996457847283204606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "老干妈炒饭\n可能是第一次吃老干妈炒的东西\n对我这种几乎完全不能吃辣的人来说不是很友好 https://t.co/URTUcilLQE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "明日方舟/星铁/火影手游玩家，算法竞赛爱好者，本科在读，服用精神药物中",
+        "id": "1901685825076973568",
+        "location": "现实世界",
+        "name": "Forget-Me-Not",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038565815478616064"
+      ],
+      "media_source_tweet_id": [
+        "2038565819731378556"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2038612273099571224",
+    "created_at": "2026-03-30T13:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038612273099571224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qgb4JedAIn",
+          "end": 132,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2038565819731378556/photo/1",
+          "media_key": "3_2038565815478616064",
+          "start": 109,
+          "url": "https://t.co/qgb4JedAIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038612273099571224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038565819731378556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 世界双相情感障碍日\n3月30日为“世界双相情感障碍日”\n自2015年起，由国际双相障碍学会和国际双相障碍基金会发起，将梵高的生日3月30日定为“世界双相情感障碍日”\n愿大家都能被温柔以待 https://t.co/qgb4JedAIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_2038565815478616064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpwzvLbgAAT_Ow.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038565815478616064"
+          ],
+          "media_source_tweet_id": [
+            "2038565819731378556"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2038612273099571224",
+        "created_at": "2026-03-30T13:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038612273099571224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgb4JedAIn",
+              "end": 132,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2038565819731378556/photo/1",
+              "media_key": "3_2038565815478616064",
+              "start": 109,
+              "url": "https://t.co/qgb4JedAIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038612273099571224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038565819731378556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 世界双相情感障碍日\n3月30日为“世界双相情感障碍日”\n自2015年起，由国际双相障碍学会和国际双相障碍基金会发起，将梵高的生日3月30日定为“世界双相情感障碍日”\n愿大家都能被温柔以待 https://t.co/qgb4JedAIn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038565815478616064"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2038565819731378556",
+        "created_at": "2026-03-30T10:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038565819731378556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgb4JedAIn",
+              "end": 117,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2038565819731378556/photo/1",
+              "media_key": "3_2038565815478616064",
+              "start": 94,
+              "url": "https://t.co/qgb4JedAIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038565819731378556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "世界双相情感障碍日\n3月30日为“世界双相情感障碍日”\n自2015年起，由国际双相障碍学会和国际双相障碍基金会发起，将梵高的生日3月30日定为“世界双相情感障碍日”\n愿大家都能被温柔以待 https://t.co/qgb4JedAIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 129,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 222
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈（提供跨性别相关咨询），尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "家长党"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "MTF"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "HRT"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "Les"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "双相"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "ADHD"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6593,
+          "following_count": 2004,
+          "like_count": 23142,
+          "listed_count": 27,
+          "media_count": 487,
+          "tweet_count": 2618
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

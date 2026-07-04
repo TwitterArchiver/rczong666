@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2047640488879255792",
+    "created_at": "2026-04-24T15:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047693464494817759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047617385851756544",
+          "start": 0,
+          "username": "mingfeilu0427"
+        },
+        {
+          "end": 29,
+          "id": "1864056935647264768",
+          "start": 15,
+          "username": "hirycena22779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047693464494817759",
+    "in_reply_to_user_id": "2047617385851756544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047640488879255792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingfeilu0427 @hirycena22779 蹲蹲"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hirycena22779].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hirycena22779",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hirycena22779"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2047640488879255792",
+        "created_at": "2026-04-24T15:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047693464494817759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047617385851756544",
+              "start": 0,
+              "username": "mingfeilu0427"
+            },
+            {
+              "end": 29,
+              "id": "1864056935647264768",
+              "start": 15,
+              "username": "hirycena22779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047693464494817759",
+        "in_reply_to_user_id": "2047617385851756544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047640488879255792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingfeilu0427 @hirycena22779 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047617385851756544",
+        "conversation_id": "2047640488879255792",
+        "created_at": "2026-04-24T11:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047640488879255792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1864056935647264768",
+              "start": 2,
+              "username": "hirycena22779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047640488879255792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 940,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "这是@hirycena22779第二世 没想到发了第一个自介贴就被封了，这一世就随缘互fo了，免得再被封，抽个奖起个流吧。自介就是oder自残文艺b长发男4i性别认知偏差\n\n一等奖：52r（一份）\n \n二等奖：随便你想要的物品吧30r以内的可以折现（两份）\n\n三等奖：5.2r（三份）\n \n赞＋fo＋评＋转即可参加\n\n5.1开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 227,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 306
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T10:03:41.000Z",
+        "description": "重度双相强迫焦虑/被害妄想/性别认知偏差/od自餐/文艺逼 长发男 4i/m/健全人勿扰",
+        "id": "2047617385851756544",
+        "location": "床",
+        "name": "明非路",
+        "pinned_tweet_id": "2047640488879255792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047620414290214912/sc3LavHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 6,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "mingfeilu0427",
+        "verified": false
+      }
+    ]
+  }
+}

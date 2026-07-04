@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057577050102497280"
+      ],
+      "media_source_tweet_id": [
+        "2057577759661240431"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2057628612250276065",
+    "created_at": "2026-05-22T01:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057628612250276065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054196065172344832",
+          "start": 3,
+          "username": "GptRainy"
+        },
+        {
+          "end": 33,
+          "id": "1659962043460354050",
+          "start": 23,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 45,
+          "id": "1962425480612851712",
+          "start": 34,
+          "username": "yaowubaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h6ttFVegBP",
+          "end": 69,
+          "expanded_url": "https://x.com/GptRainy/status/2057577759661240431/photo/1",
+          "media_key": "3_2057577050102497280",
+          "start": 46,
+          "url": "https://t.co/h6ttFVegBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057628612250276065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057577759661240431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GptRainy: 小雨的神秘体验😋\n@SalviaSWC @yaowubaike https://t.co/h6ttFVegBP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2057577050102497280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI37bPFbAAAyr7F.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057577050102497280"
+          ],
+          "media_source_tweet_id": [
+            "2057577759661240431"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2057628612250276065",
+        "created_at": "2026-05-22T01:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057628612250276065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054196065172344832",
+              "start": 3,
+              "username": "GptRainy"
+            },
+            {
+              "end": 33,
+              "id": "1659962043460354050",
+              "start": 23,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 45,
+              "id": "1962425480612851712",
+              "start": 34,
+              "username": "yaowubaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6ttFVegBP",
+              "end": 69,
+              "expanded_url": "https://x.com/GptRainy/status/2057577759661240431/photo/1",
+              "media_key": "3_2057577050102497280",
+              "start": 46,
+              "url": "https://t.co/h6ttFVegBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057628612250276065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057577759661240431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GptRainy: 小雨的神秘体验😋\n@SalviaSWC @yaowubaike https://t.co/h6ttFVegBP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057577050102497280"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2057577759661240431",
+        "created_at": "2026-05-21T21:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057577759661240431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1659962043460354050",
+              "start": 9,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 31,
+              "id": "1962425480612851712",
+              "start": 20,
+              "username": "yaowubaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6ttFVegBP",
+              "end": 55,
+              "expanded_url": "https://x.com/GptRainy/status/2057577759661240431/photo/1",
+              "media_key": "3_2057577050102497280",
+              "start": 32,
+              "url": "https://t.co/h6ttFVegBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057577759661240431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小雨的神秘体验😋\n@SalviaSWC @yaowubaike https://t.co/h6ttFVegBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 321,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 327
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！不回关是因为怕回关太多被封号抱歉呜呜会慢慢回关的\n07年Transfem/🐱我的小猫叫卡尔/o割/🤖独立AI研究者/💊药物咨询 https://t.co/5EE1WxkPHD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 92,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 69,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2055593672520171677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 64,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4646,
+          "following_count": 1017,
+          "like_count": 24038,
+          "listed_count": 11,
+          "media_count": 528,
+          "tweet_count": 7748
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4370,
+          "following_count": 37,
+          "like_count": 620,
+          "listed_count": 6,
+          "media_count": 78,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

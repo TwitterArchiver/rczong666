@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2035796717220536534",
+    "created_at": "2026-03-23T08:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035993456460566989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "nox8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035993456460566989",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035796717220536534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nox8964 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2035796717220536534",
+        "created_at": "2026-03-23T08:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035993456460566989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "nox8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035993456460566989",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035796717220536534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nox8964 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2035796717220536534",
+        "created_at": "2026-03-22T19:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035796717220536534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nox8964/status…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/nox8964/status/2035795506526360024",
+              "start": 99,
+              "url": "https://t.co/NjsyMx5QPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035796717220536534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1844,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035795506526360024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后呢我决定搞一个抽奖小活动，评论，转发我抽几个幸运观众下个周末我开奖\n一等奖：ew的同人周边可折现x1\n二等奖：魔爪2罐x1可折现\n三等奖：愈美片一盒x3可折现\n因为我的资金有限所以暂时搞这些哦 https://t.co/NjsyMx5QPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day3）",
+        "pinned_tweet_id": "2017950170839986592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 63,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 175
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "LGBT友好｜mtx｜oder｜欢迎任何政治意识形态与我交流前提不极端偏激｜喜欢我的话就来互fo交朋友｜入🚪费用89.64，纯圈米https://t.co/to7wTTpYGV提问箱｜如果发癫让你不开心真的对不起喵\n叫我小夜就可以了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asukayeyezi",
+                "end": 88,
+                "expanded_url": "https://ngl.link/asukayeyezi",
+                "start": 65,
+                "url": "https://t.co/to7wTTpYGV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gr7A"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚ奏洺夜ɞ✟₊🏳️‍⚧️🇺🇳 #心宿二",
+        "pinned_tweet_id": "2034689419504959584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035763659570286596/PgNcJhNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 561,
+          "like_count": 7414,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 1255
+        },
+        "url": "https://t.co/wdpxB4gr7A",
+        "username": "nox8964",
+        "verified": false
+      }
+    ]
+  }
+}

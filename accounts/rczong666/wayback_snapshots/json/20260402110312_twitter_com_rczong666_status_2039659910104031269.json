@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2039563603146420687",
+    "created_at": "2026-04-02T11:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039659910104031269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2028205953380945920",
+          "start": 0,
+          "username": "psyopal"
+        },
+        {
+          "end": 17,
+          "id": "1886385501130866688",
+          "start": 9,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039659910104031269",
+    "in_reply_to_user_id": "2028205953380945920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039563603146420687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psyopal @Lomyral 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2039563603146420687",
+        "created_at": "2026-04-02T11:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039659910104031269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2028205953380945920",
+              "start": 0,
+              "username": "psyopal"
+            },
+            {
+              "end": 17,
+              "id": "1886385501130866688",
+              "start": 9,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039659910104031269",
+        "in_reply_to_user_id": "2028205953380945920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039563603146420687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyopal @Lomyral 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028205953380945920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2039563603146420687",
+        "created_at": "2026-04-02T04:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039563603146420687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039563603146420687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3423,
+          "like_count": 58,
+          "quote_count": 5,
+          "reply_count": 76,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "这里是Opal小精灵，神必物质狂热爱好者。因为太无人在意所以来抽奖啦。\n\n关注➕评论➕转发参与抽奖。\n为保证公平公正会让Grok抽取。\n\n奖池：🌵x3，飞鸟x3，小咪x2，上升x2，今夜不再x2，DPTx200mg。（成分与效果在本人推特和频道可以找到）\n\n最后让我们看看是哪十三个幸运孩子获得夏日圣诞节礼物吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 135,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 236
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T20:29:23.000Z",
+        "description": "unnamed复活介绍点https://t.co/RIbaVNCNdD\n飞机同ID，神必物质欢迎观看\n同类超级大友好",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 35,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 12,
+                "url": "https://t.co/RIbaVNCNdD"
+              }
+            ]
+          }
+        },
+        "id": "2028205953380945920",
+        "name": "psyopal",
+        "pinned_tweet_id": "2039563603146420687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038830668533334016/ktouiTat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 132,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 103
+        },
+        "username": "psyopal",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 478,
+          "like_count": 37434,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

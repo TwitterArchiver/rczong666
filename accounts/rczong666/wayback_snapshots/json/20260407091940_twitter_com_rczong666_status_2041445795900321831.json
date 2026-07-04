@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2041377017481031784",
+    "created_at": "2026-04-07T09:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041445795900321831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008812080099672064",
+          "start": 0,
+          "username": "Xiaoyi_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041445795900321831",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041377017481031784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyi_0324 恭喜 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2041377004638093312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRtke4awAAmmDN.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2041377005527281664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRtkiMasAAmGby.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2041377008316542976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRtkslbcAAojSM.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2041377010451406848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRtk0ia4AAglFP.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2041377017481031784",
+        "created_at": "2026-04-07T09:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041445795900321831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041445795900321831",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041377017481031784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 恭喜 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041377004638093312",
+            "3_2041377005527281664",
+            "3_2041377008316542976",
+            "3_2041377010451406848"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2041377017481031784",
+        "created_at": "2026-04-07T04:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041377017481031784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2008812080099672064",
+              "start": 22,
+              "username": "Xiaoyi_0324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYNl9QZbcG",
+              "end": 197,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2041377017481031784/photo/1",
+              "media_key": "3_2041377004638093312",
+              "start": 174,
+              "url": "https://t.co/mYNl9QZbcG"
+            },
+            {
+              "display_url": "pic.x.com/mYNl9QZbcG",
+              "end": 197,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2041377017481031784/photo/1",
+              "media_key": "3_2041377005527281664",
+              "start": 174,
+              "url": "https://t.co/mYNl9QZbcG"
+            },
+            {
+              "display_url": "pic.x.com/mYNl9QZbcG",
+              "end": 197,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2041377017481031784/photo/1",
+              "media_key": "3_2041377008316542976",
+              "start": 174,
+              "url": "https://t.co/mYNl9QZbcG"
+            },
+            {
+              "display_url": "pic.x.com/mYNl9QZbcG",
+              "end": 197,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2041377017481031784/photo/1",
+              "media_key": "3_2041377010451406848",
+              "start": 174,
+              "url": "https://t.co/mYNl9QZbcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041377017481031784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "迟来的百Followers抽奖 QAQ\n关注@xiaoyi_0324谢谢喵！\n我写错三次了我没招了\n一等奖 三盒pr(折现28r）1位\n二等奖 三盒愈美（折现16R）2位\n三等奖 🍥小挂件 （折现5R）3位\n四等奖 5.2红包 （折现5.2）4位\n合计95.8R（我的极限了不要怪罪）\n参与方式：字数限制详见图\n如下是一些参考图\n截止日期到下周二 https://t.co/mYNl9QZbcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 144,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "みんなとても可愛いですよ、私はみんなのことを大好きです！\n如果你觉得我的负面情绪影响到你 我向你道歉｜里推@NiaoYou83766｜提问箱在下面｜好姐姐@Sankta_AM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Sankta_AM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039652543136194560/agP5b8Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 91,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2044609231689851203",
+    "created_at": "2026-04-16T02:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044610716427235627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044610716427235627",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044609231689851203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 还有全收集玩家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2044609049434734593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_pGQAbQAETs9K.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2044609049451499520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_pGQEbEAAlwGU.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2044609049434763264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_pGQAbsAA--Wi.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1986,
+        "media_key": "3_2044609049489190912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_pGQNaMAAx9Br.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2044609231689851203",
+        "created_at": "2026-04-16T02:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044610716427235627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044610716427235627",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044609231689851203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 还有全收集玩家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044609049434734593",
+            "3_2044609049451499520",
+            "3_2044609049434763264",
+            "3_2044609049489190912"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044609231689851203",
+        "created_at": "2026-04-16T02:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044609231689851203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDnlFzCweg",
+              "end": 41,
+              "expanded_url": "https://x.com/520illusion/status/2044609231689851203/photo/1",
+              "media_key": "3_2044609049434734593",
+              "start": 18,
+              "url": "https://t.co/yDnlFzCweg"
+            },
+            {
+              "display_url": "pic.x.com/yDnlFzCweg",
+              "end": 41,
+              "expanded_url": "https://x.com/520illusion/status/2044609231689851203/photo/1",
+              "media_key": "3_2044609049451499520",
+              "start": 18,
+              "url": "https://t.co/yDnlFzCweg"
+            },
+            {
+              "display_url": "pic.x.com/yDnlFzCweg",
+              "end": 41,
+              "expanded_url": "https://x.com/520illusion/status/2044609231689851203/photo/1",
+              "media_key": "3_2044609049434763264",
+              "start": 18,
+              "url": "https://t.co/yDnlFzCweg"
+            },
+            {
+              "display_url": "pic.x.com/yDnlFzCweg",
+              "end": 41,
+              "expanded_url": "https://x.com/520illusion/status/2044609231689851203/photo/1",
+              "media_key": "3_2044609049489190912",
+              "start": 18,
+              "url": "https://t.co/yDnlFzCweg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044609231689851203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仙人之兮列入麻 精神科最锋利的刀片 https://t.co/yDnlFzCweg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 189,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 284
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安  |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "2039773716712927450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 207,
+          "like_count": 9856,
+          "listed_count": 7,
+          "media_count": 859,
+          "tweet_count": 5798
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

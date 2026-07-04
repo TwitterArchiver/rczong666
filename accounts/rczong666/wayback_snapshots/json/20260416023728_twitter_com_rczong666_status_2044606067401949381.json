@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2044558583531024627",
+    "created_at": "2026-04-16T02:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044606067401949381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041898123061030912",
+          "start": 0,
+          "username": "inlineint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044606067401949381",
+    "in_reply_to_user_id": "2041898123061030912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044558583531024627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inlineint 恭喜蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2044558583531024627",
+        "created_at": "2026-04-16T02:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044606067401949381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041898123061030912",
+              "start": 0,
+              "username": "inlineint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044606067401949381",
+        "in_reply_to_user_id": "2041898123061030912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044558583531024627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inlineint 恭喜蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041898123061030912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2044558583531024627",
+        "created_at": "2026-04-15T23:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:28:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044558420880118108",
+          "2044558583531024627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044558583531024627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 674,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖！\n一等奖：100元（一个）\n二等奖：50元（两个）\n三等奖：11.45元（三个）\n点赞转发评论关注四项全做参与\n4月18日用grok开奖\n没想到这么快就100fo了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 187,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 283
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T15:23:12.000Z",
+        "description": "HRT🍥/INTP/已炸柜/家长党/轻抑中焦/OD/高中生/OIer/彩笔音游人/互关/喵",
+        "id": "2041898123061030912",
+        "location": "天堂",
+        "name": "Register Int🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899946777985024/OgfcO6ZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 163,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "inlineint",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T15:23:12.000Z",
+        "description": "HRT🍥/INTP/已炸柜/家长党/轻抑中焦/OD/高中生/OIer/彩笔音游人/互关/喵",
+        "id": "2041898123061030912",
+        "location": "天堂",
+        "name": "Register Int🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899946777985024/OgfcO6ZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 163,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 26
+        },
+        "username": "inlineint",
+        "verified": true
+      }
+    ]
+  }
+}

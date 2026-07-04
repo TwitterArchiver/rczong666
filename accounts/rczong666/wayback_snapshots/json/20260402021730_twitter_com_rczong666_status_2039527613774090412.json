@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2039488491147698377",
+    "created_at": "2026-04-02T02:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039527613774090412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791585754755350528",
+          "start": 0,
+          "username": "RainLemon0715"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039527613774090412",
+    "in_reply_to_user_id": "1791585754755350528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039488491147698377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainLemon0715 @grok 恭喜 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2039488491147698377",
+        "created_at": "2026-04-02T02:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039527613774090412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039527613774090412",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039488491147698377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 @grok 恭喜 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "2039488491147698377",
+        "created_at": "2026-04-01T23:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039488491147698377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 102,
+              "id": "1720665183188922368",
+              "start": 97,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039488491147698377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 983,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "4000fo福利\n一等奖：国补一盒（可折现35元）\n二等奖：奶茶两杯（可折现15元）\n三等奖：鱼板挂件x2（可折现5元）\n点赞，转发，评论，关注此贴可参与抽奖活动～❤️\n感谢大家支持\n一周后通过@grok进行随机抽取三名幸运粉丝进行开奖\n获奖粉丝请在三日内联系我选择折现还是要实物奖励～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt（dxm戒断day7）",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 134,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 233
+        },
+        "username": "rczong666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.10｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜暂不圆角｜无政治立场｜努力rle中｜最好的老婆@whalexxs｜好妹妹 @Huang_Yut1ng ｜“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "whalexxs"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "Huang_Yut1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥糖果商人🌈🍬",
+        "pinned_tweet_id": "2038958095024656541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4012,
+          "following_count": 330,
+          "like_count": 8041,
+          "listed_count": 5,
+          "media_count": 223,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8529833,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6612,
+          "media_count": 8758080,
+          "tweet_count": 120909424
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}
