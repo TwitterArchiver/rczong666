@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076115037169848320"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2076115044140769314",
+    "created_at": "2026-07-12T01:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T02:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076115044140769314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCOGeDBMqp",
+          "end": 62,
+          "expanded_url": "https://x.com/rczong666/status/2076115044140769314/photo/1",
+          "media_key": "3_2076115037169848320",
+          "start": 39,
+          "url": "https://t.co/lCOGeDBMqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076115044140769314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "提醒：pdd上搜出来的这种红色盐野义点进去有惊喜，拼的时候会发现日美也在里面 https://t.co/lCOGeDBMqp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076115037169848320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_XoGdbEAAvSzF.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076115037169848320"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2076115044140769314",
+        "created_at": "2026-07-12T01:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076115044140769314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCOGeDBMqp",
+              "end": 62,
+              "expanded_url": "https://x.com/rczong666/status/2076115044140769314/photo/1",
+              "media_key": "3_2076115037169848320",
+              "start": 39,
+              "url": "https://t.co/lCOGeDBMqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076115044140769314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提醒：pdd上搜出来的这种红色盐野义点进去有惊喜，拼的时候会发现日美也在里面 https://t.co/lCOGeDBMqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 310,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

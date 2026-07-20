@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076118002261803008",
+        "3_2076118002622504960"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076118005336170679",
+    "created_at": "2026-07-12T01:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T02:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076118005336170679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rg7799NGa",
+          "end": 90,
+          "expanded_url": "https://x.com/rczong666/status/2076118005336170679/photo/1",
+          "media_key": "3_2076118002261803008",
+          "start": 67,
+          "url": "https://t.co/9rg7799NGa"
+        },
+        {
+          "display_url": "pic.x.com/9rg7799NGa",
+          "end": 90,
+          "expanded_url": "https://x.com/rczong666/status/2076118005336170679/photo/1",
+          "media_key": "3_2076118002622504960",
+          "start": 67,
+          "url": "https://t.co/9rg7799NGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076118005336170679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "京东最近新上的一种含右美沙芬的口服液，每瓶含量如图，一瓶100mg约6-7片ym，不确定是否存在虚假宣传，而且一瓶40块钱性价比较低 https://t.co/9rg7799NGa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076118002261803008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_aUsSbwAAEqYa.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076118002622504960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_aUtoboAAvbp_.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076118002261803008",
+            "3_2076118002622504960"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076118005336170679",
+        "created_at": "2026-07-12T01:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076118005336170679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rg7799NGa",
+              "end": 90,
+              "expanded_url": "https://x.com/rczong666/status/2076118005336170679/photo/1",
+              "media_key": "3_2076118002261803008",
+              "start": 67,
+              "url": "https://t.co/9rg7799NGa"
+            },
+            {
+              "display_url": "pic.x.com/9rg7799NGa",
+              "end": 90,
+              "expanded_url": "https://x.com/rczong666/status/2076118005336170679/photo/1",
+              "media_key": "3_2076118002622504960",
+              "start": 67,
+              "url": "https://t.co/9rg7799NGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076118005336170679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "京东最近新上的一种含右美沙芬的口服液，每瓶含量如图，一瓶100mg约6-7片ym，不确定是否存在虚假宣传，而且一瓶40块钱性价比较低 https://t.co/9rg7799NGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 310,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}
