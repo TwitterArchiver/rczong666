@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082579308728709120"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2082579319487070593",
+    "created_at": "2026-07-29T21:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T22:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082579319487070593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mobile.yangkeduo.com/goods1.html?ps…",
+          "end": 60,
+          "expanded_url": "https://mobile.yangkeduo.com/goods1.html?ps=kHFWflbhQ5",
+          "start": 37,
+          "unwound_url": "https://mobile.yangkeduo.com/goods1.html?goods_id=982205194100&page_from=23&pxq_secret_key=HHT3YYEWLXRO52MDESQDU26A6CODRFH6IDCQ6OYA6VFXE33QH7IQ&_oak_share_snapshot_num=10000&_oak_share_time=1785360427&share_oak_rcto=YWKv_QG-_7I1E7v_h3tze2R99HRd8na31oDduCPmARnHm7Pp4e4nMRPU&_oak_share_ticket=01-0000000029-1dc2e2e2a0f319c90d5bad5dc14ef22af901a51352a3a08e02f71b66b32f4104-1786656530&share_uin=ZDL76RXGA3Q2PHSAWWHFFLWMUQ_GEXDA&refer_share_id=d69f4338a3c3452e8d761b8aef4db27a&refer_share_uin=ZDL76RXGA3Q2PHSAWWHFFLWMUQ_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+          "url": "https://t.co/HaCNTsy1aA"
+        },
+        {
+          "display_url": "pic.x.com/S4jX2n1rij",
+          "end": 84,
+          "expanded_url": "https://x.com/rczong666/status/2082579319487070593/photo/1",
+          "media_key": "3_2082579308728709120",
+          "start": 61,
+          "url": "https://t.co/S4jX2n1rij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082579319487070593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拼多多单方右美盐野义已复活\n一盒20t售价95\n1t含15mg右美\n链接：https://t.co/HaCNTsy1aA https://t.co/S4jX2n1rij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082579308728709120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObO2OlacAAuKOG.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082579308728709120"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2082579319487070593",
+        "created_at": "2026-07-29T21:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082579319487070593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods1.html?ps…",
+              "end": 60,
+              "expanded_url": "https://mobile.yangkeduo.com/goods1.html?ps=kHFWflbhQ5",
+              "start": 37,
+              "unwound_url": "https://mobile.yangkeduo.com/goods1.html?goods_id=982205194100&page_from=23&pxq_secret_key=HHT3YYEWLXRO52MDESQDU26A6CODRFH6IDCQ6OYA6VFXE33QH7IQ&_oak_share_snapshot_num=10000&_oak_share_time=1785360427&share_oak_rcto=YWKv_QG-_7I1E7v_h3tze2R99HRd8na31oDduCPmARnHm7Pp4e4nMRPU&_oak_share_ticket=01-0000000029-1dc2e2e2a0f319c90d5bad5dc14ef22af901a51352a3a08e02f71b66b32f4104-1786656530&share_uin=ZDL76RXGA3Q2PHSAWWHFFLWMUQ_GEXDA&refer_share_id=d69f4338a3c3452e8d761b8aef4db27a&refer_share_uin=ZDL76RXGA3Q2PHSAWWHFFLWMUQ_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+              "url": "https://t.co/HaCNTsy1aA"
+            },
+            {
+              "display_url": "pic.x.com/S4jX2n1rij",
+              "end": 84,
+              "expanded_url": "https://x.com/rczong666/status/2082579319487070593/photo/1",
+              "media_key": "3_2082579308728709120",
+              "start": 61,
+              "url": "https://t.co/S4jX2n1rij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082579319487070593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼多多单方右美盐野义已复活\n一盒20t售价95\n1t含15mg右美\n链接：https://t.co/HaCNTsy1aA https://t.co/S4jX2n1rij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 312,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}

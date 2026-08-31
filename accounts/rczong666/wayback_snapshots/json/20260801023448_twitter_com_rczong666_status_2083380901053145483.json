@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083380886968623104"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2083380901053145483",
+    "created_at": "2026-08-01T02:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083380901053145483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mobile.yangkeduo.com/goods.html?ps=…",
+          "end": 100,
+          "expanded_url": "https://mobile.yangkeduo.com/goods.html?ps=N3lHfxzKjq",
+          "start": 77,
+          "unwound_url": "https://mobile.yangkeduo.com/goods.html?goods_id=948522659228&page_from=101&pxq_secret_key=AES6RPZ3Q7LTKZEK4OQRBNTLLGU5JOKQUA3SSNMKOLGXG7PYBZ6Q&_oak_share_snapshot_num=479&_oak_share_detail_id=28282460847&_oak_share_time=1785551163&share_oak_rcto=YWKnuNcrAdc_PvCxoWH91jF1MTtiA4Ju8ZaR1kkqGbtCEcYIXa2YzH7G&_oak_share_ticket=01-0000000029-4291a8a4eb7abfdd60cc348aeea164201f47051427906d0f76e9152cf7382e67-1786847586&share_uin=ZDL76RXGA3Q2PHSAWWHFFLWMUQ_GEXDA&refer_share_id=3c3bc15e2f444289922f4242e42db864&refer_share_uin=ZDL76RXGA3Q2PHSAWWHFFLWMUQ_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+          "url": "https://t.co/h4gUJhv0QV"
+        },
+        {
+          "display_url": "pic.x.com/1NBweQhYNP",
+          "end": 136,
+          "expanded_url": "https://x.com/rczong666/status/2083380901053145483/photo/1",
+          "media_key": "3_2083380886968623104",
+          "start": 113,
+          "url": "https://t.co/1NBweQhYNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083380901053145483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "强推一下九后爽强力枇杷露！\n本品内含罂粟壳成分，一瓶330ml喝下来就感觉有42t白兔的体感了，当然也有建议两瓶起喝的\n重要的是三瓶只要13.4元\n链接：https://t.co/h4gUJhv0QV\n阿片👻速备货–&gt; https://t.co/1NBweQhYNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2070,
+        "media_key": "3_2083380886968623104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmn4OOaYAAo1Uc.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083380886968623104"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2083380901053145483",
+        "created_at": "2026-08-01T02:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083380901053145483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods.html?ps=…",
+              "end": 100,
+              "expanded_url": "https://mobile.yangkeduo.com/goods.html?ps=N3lHfxzKjq",
+              "start": 77,
+              "unwound_url": "https://mobile.yangkeduo.com/goods.html?goods_id=948522659228&page_from=101&pxq_secret_key=AES6RPZ3Q7LTKZEK4OQRBNTLLGU5JOKQUA3SSNMKOLGXG7PYBZ6Q&_oak_share_snapshot_num=479&_oak_share_detail_id=28282460847&_oak_share_time=1785551163&share_oak_rcto=YWKnuNcrAdc_PvCxoWH91jF1MTtiA4Ju8ZaR1kkqGbtCEcYIXa2YzH7G&_oak_share_ticket=01-0000000029-4291a8a4eb7abfdd60cc348aeea164201f47051427906d0f76e9152cf7382e67-1786847586&share_uin=ZDL76RXGA3Q2PHSAWWHFFLWMUQ_GEXDA&refer_share_id=3c3bc15e2f444289922f4242e42db864&refer_share_uin=ZDL76RXGA3Q2PHSAWWHFFLWMUQ_GEXDA&refer_share_channel=copy_link&refer_share_form=text",
+              "url": "https://t.co/h4gUJhv0QV"
+            },
+            {
+              "display_url": "pic.x.com/1NBweQhYNP",
+              "end": 136,
+              "expanded_url": "https://x.com/rczong666/status/2083380901053145483/photo/1",
+              "media_key": "3_2083380886968623104",
+              "start": 113,
+              "url": "https://t.co/1NBweQhYNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083380901053145483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强推一下九后爽强力枇杷露！\n本品内含罂粟壳成分，一瓶330ml喝下来就感觉有42t白兔的体感了，当然也有建议两瓶起喝的\n重要的是三瓶只要13.4元\n链接：https://t.co/h4gUJhv0QV\n阿片👻速备货–&gt; https://t.co/1NBweQhYNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "location": "逐渐清醒",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 316,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "rczong666",
+        "verified": false
+      }
+    ]
+  }
+}
