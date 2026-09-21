@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100798104245342208",
+        "3_2100798113166561280",
+        "3_2100798128165359616",
+        "3_2100798142707032064"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100798152869920826",
+    "created_at": "2026-09-18T04:04:45.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T05:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100798152869920826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7W8lHGkKLm",
+          "end": 70,
+          "expanded_url": "https://x.com/rczong666/status/2100798152869920826/photo/1",
+          "media_key": "3_2100798104245342208",
+          "start": 47,
+          "url": "https://t.co/7W8lHGkKLm"
+        },
+        {
+          "display_url": "pic.x.com/7W8lHGkKLm",
+          "end": 70,
+          "expanded_url": "https://x.com/rczong666/status/2100798152869920826/photo/1",
+          "media_key": "3_2100798113166561280",
+          "start": 47,
+          "url": "https://t.co/7W8lHGkKLm"
+        },
+        {
+          "display_url": "pic.x.com/7W8lHGkKLm",
+          "end": 70,
+          "expanded_url": "https://x.com/rczong666/status/2100798152869920826/photo/1",
+          "media_key": "3_2100798128165359616",
+          "start": 47,
+          "url": "https://t.co/7W8lHGkKLm"
+        },
+        {
+          "display_url": "pic.x.com/7W8lHGkKLm",
+          "end": 70,
+          "expanded_url": "https://x.com/rczong666/status/2100798152869920826/photo/1",
+          "media_key": "3_2100798142707032064",
+          "start": 47,
+          "url": "https://t.co/7W8lHGkKLm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100798152869920826",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100798104245342208"
+      },
+      {
+        "media_key": "3_2100798113166561280"
+      },
+      {
+        "media_key": "3_2100798128165359616"
+      },
+      {
+        "media_key": "3_2100798142707032064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于陆先生假药事件最新进展\n陆先生已经从药厂那边要到了检验报告\n图四为陆先生与药厂的沟通记录 https://t.co/7W8lHGkKLm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2718,
+        "media_key": "3_2100798104245342208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSeIvsxbkAA9DZf.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2717,
+        "media_key": "3_2100798113166561280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSeIwOAakAAuf9A.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2713,
+        "media_key": "3_2100798128165359616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSeIxF4aEAAWRrx.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2165,
+        "media_key": "3_2100798142707032064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSeIx8DaYAA0Oe_.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100798104245342208",
+            "3_2100798113166561280",
+            "3_2100798128165359616",
+            "3_2100798142707032064"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100798152869920826",
+        "created_at": "2026-09-18T04:04:45.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100798152869920826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7W8lHGkKLm",
+              "end": 70,
+              "expanded_url": "https://x.com/rczong666/status/2100798152869920826/photo/1",
+              "media_key": "3_2100798104245342208",
+              "start": 47,
+              "url": "https://t.co/7W8lHGkKLm"
+            },
+            {
+              "display_url": "pic.x.com/7W8lHGkKLm",
+              "end": 70,
+              "expanded_url": "https://x.com/rczong666/status/2100798152869920826/photo/1",
+              "media_key": "3_2100798113166561280",
+              "start": 47,
+              "url": "https://t.co/7W8lHGkKLm"
+            },
+            {
+              "display_url": "pic.x.com/7W8lHGkKLm",
+              "end": 70,
+              "expanded_url": "https://x.com/rczong666/status/2100798152869920826/photo/1",
+              "media_key": "3_2100798128165359616",
+              "start": 47,
+              "url": "https://t.co/7W8lHGkKLm"
+            },
+            {
+              "display_url": "pic.x.com/7W8lHGkKLm",
+              "end": 70,
+              "expanded_url": "https://x.com/rczong666/status/2100798152869920826/photo/1",
+              "media_key": "3_2100798142707032064",
+              "start": 47,
+              "url": "https://t.co/7W8lHGkKLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100798152869920826",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100798104245342208"
+          },
+          {
+            "media_key": "3_2100798113166561280"
+          },
+          {
+            "media_key": "3_2100798128165359616"
+          },
+          {
+            "media_key": "3_2100798142707032064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于陆先生假药事件最新进展\n陆先生已经从药厂那边要到了检验报告\n图四为陆先生与药厂的沟通记录 https://t.co/7W8lHGkKLm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "药物图文官网：https://t.co/WZqhpNIgCx\n本网站持续更新药物信息，药物报告等，欢迎投稿\n自介：大二本科在读｜人工智能专业｜非mtf｜双相，爱好是od（尤其ym），玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 30,
+                "expanded_url": "http://drugraph.com",
+                "start": 7,
+                "url": "https://t.co/WZqhpNIgCx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 23,
+                "expanded_url": "http://drugraph.com",
+                "start": 0,
+                "url": "https://t.co/WZqhpNHIMZ"
+              }
+            ]
+          }
+        },
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2100798152869920826",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1789024736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 509,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/WZqhpNHIMZ",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2097349422866939985",
+    "created_at": "2026-09-08T15:52:25.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097352365724827684"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097352365724827684",
+    "in_reply_to_user_id": "1901685825076973568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097349422866939985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学习做wiki还需要一点时间， 不过感兴趣的话可以先投稿，比如说：\n我在服用某解离剂后看到了什么（可以画出来），他的行为方式是什么\n或者说突然意识到自己可以操控平常自己无法操控的某一部分的时候你是如何做的，又发生了什么\n又或者一些小技巧，比如拿手柄之类的物体试图控制想象画面中人物的移动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2097349422866939985",
+        "created_at": "2026-09-08T15:52:25.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097352365724827684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097352365724827684",
+        "in_reply_to_user_id": "1901685825076973568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097349422866939985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学习做wiki还需要一点时间， 不过感兴趣的话可以先投稿，比如说：\n我在服用某解离剂后看到了什么（可以画出来），他的行为方式是什么\n或者说突然意识到自己可以操控平常自己无法操控的某一部分的时候你是如何做的，又发生了什么\n又或者一些小技巧，比如拿手柄之类的物体试图控制想象画面中人物的移动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2097349422866939985",
+        "created_at": "2026-09-08T15:40:43.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097349422866939985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097349422866939985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近这一两周失踪了一下（其实是梯子炸了）\n我打算做一个记录药物使用期间感受到的事件的wiki\n类似于scp和后室那种\n比如我在使用解离剂后看到了一个黑色的人影，我就可以开一个页面，然后定义这样一个实体，记录他的外貌，在什么时候出现等信息\n目前已经完成了网站的初步搭建，我也在学习这方面的内容"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2097352365724827684",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1770321260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 301,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

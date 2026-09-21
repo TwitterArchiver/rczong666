@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100425251553525760",
+        "3_2100425279219060737"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2100425316342882350",
+    "created_at": "2026-09-17T03:23:14.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100425316342882350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oI6yry4PGI",
+          "end": 70,
+          "expanded_url": "https://x.com/rczong666/status/2100425316342882350/photo/1",
+          "media_key": "3_2100425251553525760",
+          "start": 47,
+          "url": "https://t.co/oI6yry4PGI"
+        },
+        {
+          "display_url": "pic.x.com/oI6yry4PGI",
+          "end": 70,
+          "expanded_url": "https://x.com/rczong666/status/2100425316342882350/photo/1",
+          "media_key": "3_2100425279219060737",
+          "start": 47,
+          "url": "https://t.co/oI6yry4PGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100425316342882350",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100425251553525760"
+      },
+      {
+        "media_key": "3_2100425279219060737"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于陆先生疑似卖假药一事\n目前有人提供了陆先生那边ym的进货单\n相关的其他证据我也在持续跟进 https://t.co/oI6yry4PGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_2100425251553525760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY1o0QbwAARkbS.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100425279219060737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY1qbUaUAEgx3p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100425251553525760",
+            "3_2100425279219060737"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2100425316342882350",
+        "created_at": "2026-09-17T03:23:14.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100425316342882350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oI6yry4PGI",
+              "end": 70,
+              "expanded_url": "https://x.com/rczong666/status/2100425316342882350/photo/1",
+              "media_key": "3_2100425251553525760",
+              "start": 47,
+              "url": "https://t.co/oI6yry4PGI"
+            },
+            {
+              "display_url": "pic.x.com/oI6yry4PGI",
+              "end": 70,
+              "expanded_url": "https://x.com/rczong666/status/2100425316342882350/photo/1",
+              "media_key": "3_2100425279219060737",
+              "start": 47,
+              "url": "https://t.co/oI6yry4PGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100425316342882350",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100425251553525760"
+          },
+          {
+            "media_key": "3_2100425279219060737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于陆先生疑似卖假药一事\n目前有人提供了陆先生那边ym的进货单\n相关的其他证据我也在持续跟进 https://t.co/oI6yry4PGI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "药物图文官网：https://t.co/WZqhpNIgCx\n本网站持续更新药物信息，药物报告等，欢迎投稿\n自介：大二本科在读｜人工智能专业｜非mtf｜双相，爱好是od（尤其ym），玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 30,
+                "expanded_url": "http://drugraph.com",
+                "start": 7,
+                "url": "https://t.co/WZqhpNIgCx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 23,
+                "expanded_url": "http://drugraph.com",
+                "start": 0,
+                "url": "https://t.co/WZqhpNHIMZ"
+              }
+            ]
+          }
+        },
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2100425316342882350",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1789024736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 478,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/WZqhpNHIMZ",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
