@@ -1,11 +1,22 @@
 {
   "name": "Fσrgεt-Mε-Nσt",
   "username": "@rczong666",
-  "bio": "大二本科在读｜人工智能专业｜非mtf｜双相｜非二元，爱好是od，玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+  "bio": "药物图文官网：http://drugraph.com\n本网站持续更新药物信息，药物报告等，欢迎投稿\n自介：大二本科在读｜人工智能专业｜非mtf｜双相，爱好是od（尤其ym），玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
   "location": "逐渐清醒",
-  "link": "",
+  "link": "http://drugraph.com",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2037219160271589538",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "drugraph.com",
+        "end": 30,
+        "expanded_url": "http://drugraph.com",
+        "start": 7,
+        "url": "https://t.co/WZqhpNIgCx"
+      }
+    ]
+  }
 }
