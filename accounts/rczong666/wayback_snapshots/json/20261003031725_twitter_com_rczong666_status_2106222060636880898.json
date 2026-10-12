@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105978437911609345",
+        "3_2105978445100617728"
+      ],
+      "media_source_tweet_id": [
+        "2105978451798999461",
+        "2105978451798999461"
+      ]
+    },
+    "author_id": "1901685825076973568",
+    "conversation_id": "2106222060636880898",
+    "created_at": "2026-10-03T03:17:25.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T04:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106222060636880898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RZyllkVdJA",
+          "end": 106,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2105978451798999461/photo/1",
+          "media_key": "3_2105978437911609345",
+          "start": 83,
+          "url": "https://t.co/RZyllkVdJA"
+        },
+        {
+          "display_url": "pic.x.com/RZyllkVdJA",
+          "end": 106,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2105978451798999461/photo/1",
+          "media_key": "3_2105978445100617728",
+          "start": 83,
+          "url": "https://t.co/RZyllkVdJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106222060636880898",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105978437911609345"
+      },
+      {
+        "media_key": "3_2105978445100617728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105978451798999461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 在中国，当我们身边有朋友自杀的时候，我们到底应不应该报警？\n\n有相当一部分的民警特别的冷酷而且说的话相当的伤人，或者特别的多话… https://t.co/RZyllkVdJA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2105978437911609345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnwOzhagAEcgmJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2105978445100617728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnwPOTaEAArxct.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105978437911609345",
+            "3_2105978445100617728"
+          ],
+          "media_source_tweet_id": [
+            "2105978451798999461",
+            "2105978451798999461"
+          ]
+        },
+        "author_id": "1901685825076973568",
+        "conversation_id": "2106222060636880898",
+        "created_at": "2026-10-03T03:17:25.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106222060636880898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZyllkVdJA",
+              "end": 106,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105978451798999461/photo/1",
+              "media_key": "3_2105978437911609345",
+              "start": 83,
+              "url": "https://t.co/RZyllkVdJA"
+            },
+            {
+              "display_url": "pic.x.com/RZyllkVdJA",
+              "end": 106,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105978451798999461/photo/1",
+              "media_key": "3_2105978445100617728",
+              "start": 83,
+              "url": "https://t.co/RZyllkVdJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106222060636880898",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105978437911609345"
+          },
+          {
+            "media_key": "3_2105978445100617728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105978451798999461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 在中国，当我们身边有朋友自杀的时候，我们到底应不应该报警？\n\n有相当一部分的民警特别的冷酷而且说的话相当的伤人，或者特别的多话… https://t.co/RZyllkVdJA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105978437911609345",
+            "3_2105978445100617728"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2105978451798999461",
+        "created_at": "2026-10-02T11:09:24.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105978451798999461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZyllkVdJA",
+              "end": 87,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105978451798999461/photo/1",
+              "media_key": "3_2105978437911609345",
+              "start": 64,
+              "url": "https://t.co/RZyllkVdJA"
+            },
+            {
+              "display_url": "pic.x.com/RZyllkVdJA",
+              "end": 87,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2105978451798999461/photo/1",
+              "media_key": "3_2105978445100617728",
+              "start": 64,
+              "url": "https://t.co/RZyllkVdJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105978451798999461",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105978437911609345"
+          },
+          {
+            "media_key": "3_2105978445100617728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "在中国，当我们身边有朋友自杀的时候，我们到底应不应该报警？\n\n有相当一部分的民警特别的冷酷而且说的话相当的伤人，或者特别的多话\n\n（比如故意斥责当事人的自杀行为浪费社会资源，讽刺当事人真正想自杀的人根本不会这样，给当事人造成严重的二次心理创伤，或者无端生事的说当事人“不男不女”“自私脆弱”）\n\n我已经记不清我一共打过多少次110了，绝大多数报警的原因是因为身边的朋友有生命危险，仅2020年，我和各个地区的110的通话记录次数就超过了60次\n\n坦白说，我并不喜欢和民警打交道\n\n每一次和民警打交道，都意味着此时有重大危机发生，都意味着在噩梦边缘徘徊\n\n大多数民警的说话方式都会引起我的反感，喜欢（在与案情无关的事情上）刨根问底，喜欢无谓的和稀泥，喜欢推脱责任给监护人，处理事情刻板思想严重\n\n当然，也有少数民警在处理案情时做得非常非常好，不仅恪尽职守，而且处理事情细腻\n\n不同地区，同一地区的不同公安局，甚至同一公安局的不同警察在处理案情时都差异极大，态度和能力更是天差地别\n\n如果让我分个类，那么在我印象中，往往经济越是发达的城市，警察就越恪尽职守\n\n从全国来看（因为我几年前报警的比较多，这些大部分数据是我几年前感受到的）\n\n喜欢尽可能推脱责任的民警占25％\n\n大致做好职业份内事务的民警大约占70％（其中大约25％做事效率极高，在生命问题上不会浪费丝毫时间，但是只会物理干预，心理干预常常起反效果）\n\n把事情做得非常好，敢于承担责任，将事情管到底，而且做事非常细腻的民警大约占5％（女警居多）\n\n以上分类仅涵盖自杀干预案\n\n这种巨大的不确定性意味着我每一次报警在抱有巨大的期望时也会承担很大的风险，而风险可能导致的后果往往是生命的代价\n\n少部分接警人会在报警时推脱责任：如果没有报具体位置，电话号码，真实姓名，父母电话，身份证号，只要稍微少一点点信息，派出所的警察就会回怼报警人根本没办法出警，无法处理这件事情\n\n但是正常情况下即使信息是残缺的也应该出警\n\n并且做事效率高的警察即使只有一个QQ号或者微信号（甚至只有一个微博号知乎号），剩下所有信息都一无所知，也会立刻十分钟内查到当事人具体位置然后上门\n\n以我个人感觉，大部分民警在处理自杀干预案的时候都会下意识的用粗暴态度去对待当事人\n\n甚至有部分民警在心理干预上他们表现得十分懈怠（甚至还有看到当事人以后让当事人签以后不再自杀的保证书的智熄操作），我遇到过好几次当事人因为受到警察的话语刺激而选择直接结束自己生命的事情\n\n剩下一部分民警在物理干预上做得比较好，在心理干预上会选择只做最基础最初级的干预（可能起到反效果，但至少他们出发点是好的）\n\n比如他们会和当事人说\n“你爸你妈把你辛辛苦苦养这么大容易吗？想想你的父母”（当事人可能就是因为受到父母刺激而选择自杀的）\n\n“一个大小伙子，大男子汉，有什么想不开的？？走！今晚我下班带你去吃烧烤”（出发点是好的，但问题是当事人是跨性别女性，完全没有考虑到当事人不喜欢被叫大男子汉）\n\n最后只有极少数民警处理案情处理的特别完美\n\n例如接触到当事人后会花费很漫长的时间相当细心的开导当事人，并且会花费很长的时间去做当事人的家庭工作，即使在事情发生的好几天后，也会持续性的关注当事人的生活状态，我遇到了好几次这样的民警后，他们的细心，细致，温柔，善良真的让我非常感动\n\n在我几年前的时候或者初中时期，我一年时间最高峰时甚至能报八十次警，但因为遇到了太多不好的事情，现在的我有时候宁可承担一定当事人死亡的风险，也不会再报警了\n\n我也能渐渐明白，报警永远是最后最后的手段，而且警察只是一个职业，永远不要把警察代入某个刻板的形象，他们也是普通的人，也同样有所有人性的弱点，人性的恶，并且在制度下被放大了\n\n同时警察也是一个数百万的庞大群体，也不要因为个别警察的恶劣行为就对整个群体产生不好的印象\n\n温柔善良的警察虽然比例少，但也是有很多的。但是也同样，永远不要因为某个警察值得信任，就去轻易信任别的警察，更要预防红脸白脸唱双簧。\n\n在自杀干预方面，报警永远是最后的手段\n\n当已经确定如果不报警当事人死亡风险极大的情况下，无论报警会造成什么后果，都一定要报警，以上能不报警的前提条件是当事人自杀风险较低\n\n而如果是次一级紧急的情况，一般打当地的市民热线12345，要求社区社工介入，是更优先级的求助政府力量的渠道"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 15504,
+          "like_count": 316,
+          "quote_count": 6,
+          "reply_count": 20,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，当我们身边有朋友自杀的时候，我们到底应不应该报警？\n\n有相当一部分的民警特别的冷酷而且说的话相当的伤人，或者特别的多话 https://t.co/RZyllkVdJA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "药物图文官网：https://t.co/WZqhpNIgCx\n本网站持续更新药物信息，药物报告等，欢迎投稿\n自介：大二本科在读｜人工智能专业｜非mtf｜双相，爱好是od（尤其ym），玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 30,
+                "expanded_url": "http://drugraph.com",
+                "start": 7,
+                "url": "https://t.co/WZqhpNIgCx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 23,
+                "expanded_url": "http://drugraph.com",
+                "start": 0,
+                "url": "https://t.co/WZqhpNHIMZ"
+              }
+            ]
+          }
+        },
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2106222060636880898",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1789024736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 537,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/WZqhpNHIMZ",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会记录十几年来的跨性别女性社群的生存境况，她们又是如何燃尽生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想和我互相关注，可以转发我的推文，我会关注转我推文的人",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2106082920947703985",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43066,
+          "following_count": 4369,
+          "like_count": 2582,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 3343
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

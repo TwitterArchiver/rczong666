@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2107147583936397376",
+    "created_at": "2026-10-05T16:35:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T17:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107147583936397376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680146462213292033",
+          "start": 3,
+          "username": "doumaiNPS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/ne3rfS",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/ne3rfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107147583936397376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106459246607184044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doumaiNPS: 原账号被奸人所害仅存活五小时不开蓝v了\n直接评论区抽 三天后开奖 \n参与条件:转发+评论+关注\n奖品如下：\n平壤槟榔字母数字 20g 抽五个\n兜麦出品黄油面包抽三个\n本实验室出品宠物用品均为兜麦自研菜单如下： https://t.co/ne3rfS…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2106459231314710528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTulgqhbEAANLsF.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2107147583936397376",
+        "created_at": "2026-10-05T16:35:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T17:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107147583936397376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680146462213292033",
+              "start": 3,
+              "username": "doumaiNPS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/ne3rfS",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/ne3rfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107147583936397376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106459246607184044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doumaiNPS: 原账号被奸人所害仅存活五小时不开蓝v了\n直接评论区抽 三天后开奖 \n参与条件:转发+评论+关注\n奖品如下：\n平壤槟榔字母数字 20g 抽五个\n兜麦出品黄油面包抽三个\n本实验室出品宠物用品均为兜麦自研菜单如下： https://t.co/ne3rfS…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106459231314710528"
+          ]
+        },
+        "author_id": "1680146462213292033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106459246607184044",
+        "created_at": "2026-10-03T18:59:55.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106459246607184044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ne3rfSa3Jr",
+              "end": 128,
+              "expanded_url": "https://x.com/doumaiNPS/status/2106459246607184044/photo/1",
+              "media_key": "3_2106459231314710528",
+              "start": 105,
+              "url": "https://t.co/ne3rfSa3Jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106459246607184044",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106459231314710528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16096,
+          "like_count": 169,
+          "quote_count": 9,
+          "reply_count": 166,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "原账号被奸人所害仅存活五小时不开蓝v了\n直接评论区抽 三天后开奖 \n参与条件:转发+评论+关注\n奖品如下：\n平壤槟榔字母数字 20g 抽五个\n兜麦出品黄油面包抽三个\n本实验室出品宠物用品均为兜麦自研菜单如下： https://t.co/ne3rfSa3Jr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "药物图文官网：https://t.co/WZqhpNIgCx\n本网站持续更新药物信息，药物报告等，欢迎投稿\n自介：大二本科在读｜人工智能专业｜非mtf｜双相，爱好是od（尤其ym），玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 30,
+                "expanded_url": "http://drugraph.com",
+                "start": 7,
+                "url": "https://t.co/WZqhpNIgCx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 23,
+                "expanded_url": "http://drugraph.com",
+                "start": 0,
+                "url": "https://t.co/WZqhpNHIMZ"
+              }
+            ]
+          }
+        },
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2107147598616531082",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1789024736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 586,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/WZqhpNHIMZ",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T09:25:21.000Z",
+        "description": "兜麦实验室官方账号\n创始人@zifensix @painun1is\n本号不回私信 有事请联系两位创始人\n暂时停业",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "zifensix"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "painun1is"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/doumaiRC",
+                "end": 23,
+                "expanded_url": "https://t.me/doumaiRC",
+                "start": 0,
+                "url": "https://t.co/Ot2Mmw7M8G"
+              }
+            ]
+          }
+        },
+        "id": "1680146462213292033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107119312175829469",
+        "name": "兜麦总部",
+        "pinned_tweet_id": "2106459246607184044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680146462213292033/1791140014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106456360053592064/Yf1ui_yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 5,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/Ot2Mmw7M8G",
+        "username": "doumaiNPS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

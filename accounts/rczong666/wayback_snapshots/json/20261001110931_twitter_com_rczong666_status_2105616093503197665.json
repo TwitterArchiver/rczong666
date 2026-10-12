@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1901685825076973568",
+    "conversation_id": "2105616093503197665",
+    "created_at": "2026-10-01T11:09:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T12:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105616093503197665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1577362467419611137",
+          "start": 3,
+          "username": "Retepa8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "gerryeisenhaur.com",
+          "end": 139,
+          "expanded_url": "http://www.gerryeisenhaur.com",
+          "start": 125,
+          "unwound_url": "http://www.gerryeisenhaur.com",
+          "url": "https://t.co/G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105616093503197665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105504906899800550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Retepa8964: 600fo感谢!我喜欢你们💚💚💚\n再抽点小玩意吧\n1.一板新康泰克ym片(圣遗物\n2.一板齐鲁制药pr\n3.随机一款steam游戏cdk(原价100r左右的👁\n4.5块钱*2\n\n关注+转发+评论+点赞抽，10.7开奖 https://t.co/G…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2105504900310515712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThBjSfaQAAChFl.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2105616093503197665",
+        "created_at": "2026-10-01T11:09:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105616093503197665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1577362467419611137",
+              "start": 3,
+              "username": "Retepa8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gerryeisenhaur.com",
+              "end": 139,
+              "expanded_url": "http://www.gerryeisenhaur.com",
+              "start": 125,
+              "unwound_url": "http://www.gerryeisenhaur.com",
+              "url": "https://t.co/G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105616093503197665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105504906899800550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Retepa8964: 600fo感谢!我喜欢你们💚💚💚\n再抽点小玩意吧\n1.一板新康泰克ym片(圣遗物\n2.一板齐鲁制药pr\n3.随机一款steam游戏cdk(原价100r左右的👁\n4.5块钱*2\n\n关注+转发+评论+点赞抽，10.7开奖 https://t.co/G…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105504900310515712"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2105504906899800550",
+        "created_at": "2026-10-01T03:47:42.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105504906899800550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gqi94B1QBj",
+              "end": 132,
+              "expanded_url": "https://x.com/Retepa8964/status/2105504906899800550/photo/1",
+              "media_key": "3_2105504900310515712",
+              "start": 109,
+              "url": "https://t.co/Gqi94B1QBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105504906899800550",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105504900310515712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2198,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 63,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "600fo感谢!我喜欢你们💚💚💚\n再抽点小玩意吧\n1.一板新康泰克ym片(圣遗物\n2.一板齐鲁制药pr\n3.随机一款steam游戏cdk(原价100r左右的👁\n4.5块钱*2\n\n关注+转发+评论+点赞抽，10.7开奖 https://t.co/Gqi94B1QBj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "药物图文官网：https://t.co/WZqhpNIgCx\n本网站持续更新药物信息，药物报告等，欢迎投稿\n自介：大二本科在读｜人工智能专业｜非mtf｜双相，爱好是od（尤其ym），玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 30,
+                "expanded_url": "http://drugraph.com",
+                "start": 7,
+                "url": "https://t.co/WZqhpNIgCx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 23,
+                "expanded_url": "http://drugraph.com",
+                "start": 0,
+                "url": "https://t.co/WZqhpNHIMZ"
+              }
+            ]
+          }
+        },
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2105616093503197665",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1789024736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 530,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/WZqhpNHIMZ",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机😻/都市传说/文史哲艺爱好者/生理女友好一切/后现代/神必学游客/oder/精分/数字游民?/查成分互fo\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "is_identity_verified": false,
+        "location": "第三高原",
+        "most_recent_tweet_id": "2105615802292715737",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577362467419611137/1756231334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101293744683425792/WHovGnkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 1014,
+          "like_count": 30841,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2766
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
